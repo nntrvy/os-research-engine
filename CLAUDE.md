@@ -74,6 +74,60 @@ No build pipeline required. Optional formatting:
 npx prettier -w "*.md" "**/*.md"
 ```
 
+## Claude Code Agents & MCP Servers
+
+### Social Listening Agent
+
+Use `/social-listen [topic]` to analyze online discussions and discover unmet customer needs.
+
+**Example:**
+```
+/social-listen insurance pain points Vietnam
+/social-listen home renovation complaints
+/social-listen EdTech corporate training frustrations
+```
+
+**Output:** Structured report with Jobs, Pains, Gains, Workarounds mapped to Value Proposition Canvas.
+
+### MCP Servers (Configured in `.claude/settings.local.json`)
+
+| Server | Purpose | Key Tools |
+|--------|---------|-----------|
+| **Bright Data** | Web scraping, Vietnam forums | `search_engine`, `scrape_as_markdown` |
+| **Reddit** | Reddit analysis | `search_posts`, `get_subreddit_posts`, `get_comments` |
+
+### Setup Required
+
+Before using the social listening agent, set these environment variables:
+
+```bash
+# Bright Data (https://brightdata.com/cp/api_tokens)
+export BRIGHTDATA_API_TOKEN="your-token"
+
+# Reddit (https://www.reddit.com/prefs/apps)
+export REDDIT_CLIENT_ID="your-client-id"
+export REDDIT_CLIENT_SECRET="your-client-secret"
+```
+
+### Agent Workflow Integration
+
+```
+┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
+│                 │     │                 │     │                 │
+│  /social-listen │────▶│  osr-researcher │────▶│  Value Prop     │
+│                 │     │                 │     │  Canvas         │
+│  Discover       │     │  Validate &     │     │  Business Model │
+│  Jobs/Pains     │     │  Structure      │     │  Hypotheses     │
+│                 │     │                 │     │                 │
+└─────────────────┘     └─────────────────┘     └─────────────────┘
+```
+
+**Data Sources for Vietnam:**
+- Tinhte.vn, VozForums, Webtretho (via Bright Data)
+- Facebook public pages/groups (via Bright Data)
+- Reddit r/VietNam, r/vietnam (via Reddit MCP)
+- Google Search Vietnam (via Bright Data)
+
 ## When Updating Playbooks
 
 - Keep sticky note examples short (3-7 words)

@@ -19,3 +19,11 @@
 *.tmp
 *.swp
 *~
+~$*
+
+# Environment variables (contains API keys)
+.env
+.env.local
+
+# Claude Code local settings (may contain tokens)
+.claude/settings.local.json
