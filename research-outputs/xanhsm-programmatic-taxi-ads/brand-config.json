@@ -1,0 +1,132 @@
+{
+  "brand": {
+    "name": "OS Research",
+    "shortName": "OSR",
+    "tagline": "Startup Studio"
+  },
+  "colors": {
+    "primary": {
+      "hex": "#1652F0",
+      "rgb": [22, 82, 240],
+      "name": "OS Blue",
+      "usage": "Main brand color, headlines, primary buttons, logo"
+    },
+    "primaryDark": {
+      "hex": "#0D3DB8",
+      "rgb": [13, 61, 184],
+      "name": "OS Blue Dark",
+      "usage": "Hover states, darker accents"
+    },
+    "secondary": {
+      "hex": "#5B8DEF",
+      "rgb": [91, 141, 239],
+      "name": "OS Blue Light",
+      "usage": "Secondary elements, icons, accents"
+    },
+    "tertiary": {
+      "hex": "#A8C5F7",
+      "rgb": [168, 197, 247],
+      "name": "OS Blue Soft",
+      "usage": "Backgrounds, subtle highlights"
+    },
+    "background": {
+      "hex": "#E8F0FF",
+      "rgb": [232, 240, 255],
+      "name": "OS Blue Background",
+      "usage": "Light backgrounds, cards"
+    },
+    "white": {
+      "hex": "#FFFFFF",
+      "rgb": [255, 255, 255],
+      "name": "White",
+      "usage": "Backgrounds, text on dark"
+    },
+    "dark": {
+      "hex": "#1A1A2E",
+      "rgb": [26, 26, 46],
+      "name": "OS Dark",
+      "usage": "Dark text, dark backgrounds"
+    },
+    "gray": {
+      "hex": "#6B7280",
+      "rgb": [107, 114, 128],
+      "name": "OS Gray",
+      "usage": "Body text, secondary text"
+    },
+    "lightGray": {
+      "hex": "#F3F4F6",
+      "rgb": [243, 244, 246],
+      "name": "OS Light Gray",
+      "usage": "Subtle backgrounds"
+    }
+  },
+  "typography": {
+    "headingFont": "Inter",
+    "headingFontFallback": "SF Pro Display, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif",
+    "bodyFont": "Inter",
+    "bodyFontFallback": "SF Pro Text, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif",
+    "sizes": {
+      "h1": 44,
+      "h2": 36,
+      "h3": 28,
+      "h4": 22,
+      "body": 16,
+      "small": 14,
+      "caption": 12
+    },
+    "weights": {
+      "bold": 700,
+      "semibold": 600,
+      "medium": 500,
+      "regular": 400
+    }
+  },
+  "slides": {
+    "width": 1920,
+    "height": 1080,
+    "aspectRatio": "16:9",
+    "margins": {
+      "top": 80,
+      "bottom": 80,
+      "left": 100,
+      "right": 100
+    }
+  },
+  "logoPath": {
+    "full": "os-research-logo-full.png",
+    "icon": "os-research-logo-icon.png",
+    "white": "os-research-logo-white.png"
+  },
+  "patterns": {
+    "hexGrid": "Hexagonal grid pattern for backgrounds",
+    "cubeGradient": "3D cube gradient effect",
+    "cloverShape": "Three-petal clover motif from logo"
+  },
+  "slideTemplates": {
+    "titleSlide": {
+      "background": "#1652F0",
+      "titleColor": "#FFFFFF",
+      "subtitleColor": "#A8C5F7"
+    },
+    "contentSlide": {
+      "background": "#FFFFFF",
+      "titleColor": "#1652F0",
+      "bodyColor": "#1A1A2E"
+    },
+    "sectionSlide": {
+      "background": "#E8F0FF",
+      "titleColor": "#1652F0",
+      "accentColor": "#5B8DEF"
+    },
+    "statsSlide": {
+      "background": "#FFFFFF",
+      "numberColor": "#1652F0",
+      "labelColor": "#6B7280"
+    },
+    "closingSlide": {
+      "background": "#1652F0",
+      "titleColor": "#FFFFFF",
+      "ctaColor": "#A8C5F7"
+    }
+  }
+}

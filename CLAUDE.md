@@ -14,20 +14,27 @@ OS Research Engine is a knowledge base and playbook system for OS Research, an i
 
 ```
 ├── key-research-areas.md          # 5 core problem domains: Education, Insurance, Urban, Health, Culture
-├── 0-market-research/             # Business design playbooks
+├── 0-market-research-guide/       # Business design playbooks
 │   ├── blue-ocean-playbook.md     # Blue Ocean Strategy (Value Innovation, 4-Actions Framework)
 │   ├── value-proposition-design.md # Value Proposition Canvas (Customer Profile, Value Map)
 │   ├── business-model-design.md   # Business Model Canvas (9 building blocks)
 │   └── business-pitch.md          # Complete pitch report guide (Market Research + VPC + BMC + Hypotheses)
 ├── 1-hypotheses-guide/            # Hypothesis creation and prioritization
+│   ├── README.md                  # Comprehensive guide (entry point)
 │   └── hypotheses-guide.md        # Testable/Precise/Discrete framework, Assumptions Map
 ├── 2-experiment-guide/            # Experiment design and execution
-│   └── experiment-guide.md        # Test Cards, experiment types, validation methods
+│   ├── README.md                  # Unified guide (entry point)
+│   ├── experiment-guide.md        # Test Cards, experiment methodology
+│   ├── experiment-series.md       # 4 business model experiment sequences
+│   ├── social-listening.md        # Social listening methodology
+│   └── experiments-library/       # 33 detailed experiment guides (01-33)
 ├── 3-learn-guide/                 # Evidence collection and learning
 │   └── learn-guide.md             # Learning Cards, evidence strength, confidence levels
 ├── 4-decide-guide/                # Decision-making framework
 │   └── decide-guide.md            # Innovation loop, pivot/persevere decisions
-└── 5-manage-guide/                # Team coordination (images only, no markdown yet)
+├── 5-manage-guide/                # Team coordination (images only, no markdown yet)
+└── research-outputs/              # Generated research reports
+    └── social-listening/          # Social listening analysis outputs
 ```
 
 ## Methodology Flow
@@ -67,6 +74,20 @@ METRIC: And measure [data point]
 CRITERIA: We are right if [threshold]
 ```
 
+### Experiment Library (33 Experiments)
+
+Located in `2-experiment-guide/experiments-library/`:
+- **Testing Ideas (01-19):** AI Deep Research, Search Trends, Social Listening, Customer Interviews, Fake Door Ads, A/B Testing, Pre-sales, Crowdfunding, etc.
+- **Business Design (20-33):** Storyboard, Brochure, Explainer Video, Landing Page, Mock Sale, Concierge, Wizard of Oz, Single Feature MVP, etc.
+
+### Four Business Model Experiment Series
+
+Located in `2-experiment-guide/experiment-series.md`:
+1. **B2C Hardware:** Interviews → 3D Print → Explainer Video → Crowdfunding → Pop-up Store
+2. **B2C Software (SaaS):** Interviews → Fake Door + Landing Page → Wizard of Oz
+3. **B2C Services:** Interviews + Search Trends → Ads + Landing → Pre-sale → Concierge
+4. **B2B2C:** Consumer validation → Pre-sale + Concierge → Single Feature MVP → Partner Interviews
+
 ## Commands
 
 No build pipeline required. Optional formatting:
@@ -88,6 +109,39 @@ Use `/social-listen [topic]` to analyze online discussions and discover unmet cu
 ```
 
 **Output:** Structured report with Jobs, Pains, Gains, Workarounds mapped to Value Proposition Canvas.
+
+### Hypothesizer Agent
+
+Use `/hypothesizer [research context]` to transform research findings into 10 prioritized, testable hypotheses.
+
+**Example:**
+```
+/hypothesizer [paste osr-researcher output]
+/hypothesizer Based on the life insurance research above...
+```
+
+**Output:** 10 hypotheses ranked using the Assumptions Map:
+- **EXPERIMENT** (Important + No Evidence) — Test immediately
+- **SHARE** (Important + Have Evidence) — Validate existing evidence
+- **DEFER** (Unimportant + No Evidence) — Address later
+- **MONITOR** (Unimportant + Have Evidence) — Keep on radar
+
+Each hypothesis follows the "We believe that..." format and is:
+- **Testable** — Can be proven true/false
+- **Precise** — Specific what, who, when
+- **Discrete** — One thing per hypothesis
+
+### Experiment Planner Agent
+
+Use the `experiment-planner` agent to transform validated hypotheses into actionable experiment plans with project charters.
+
+**Trigger:** When hypotheses are ready for testing (marked as EXPERIMENT in Assumptions Map)
+
+**Output:** 5 experiment project charters with:
+- Test Card (Hypothesis, Test, Metric, Criteria)
+- Team assignment and timeline
+- Cost and resource requirements
+- Success/failure actions
 
 ### MCP Servers (Configured in `.claude/settings.local.json`)
 
@@ -112,14 +166,14 @@ export REDDIT_CLIENT_SECRET="your-client-secret"
 ### Agent Workflow Integration
 
 ```
-┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│                 │     │                 │     │                 │
-│  /social-listen │────▶│  osr-researcher │────▶│  Value Prop     │
-│                 │     │                 │     │  Canvas         │
-│  Discover       │     │  Validate &     │     │  Business Model │
-│  Jobs/Pains     │     │  Structure      │     │  Hypotheses     │
-│                 │     │                 │     │                 │
-└─────────────────┘     └─────────────────┘     └─────────────────┘
+┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
+│                 │     │                 │     │                 │     │                 │     │                 │
+│  /social-listen │────▶│  osr-researcher │────▶│  /hypothesizer  │────▶│ experiment-     │────▶│  Learning       │
+│                 │     │                 │     │                 │     │ planner         │     │  Cards          │
+│  Discover       │     │  VPC + BMC      │     │  10 Hypotheses  │     │                 │     │                 │
+│  Jobs/Pains     │     │  Market Size    │     │  Assumptions    │     │  5 Experiment   │     │  Evidence       │
+│                 │     │                 │     │  Map Priority   │     │  Charters       │     │  Decisions      │
+└─────────────────┘     └─────────────────┘     └─────────────────┘     └─────────────────┘     └─────────────────┘
 ```
 
 **Data Sources for Vietnam:**
