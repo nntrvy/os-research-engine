@@ -49,6 +49,19 @@ The playbooks follow a specific learning progression:
 
 ## Document Conventions
 
+### File Naming Convention
+
+**All generated files MUST start with a date prefix in `DD.MM.YY-` format.**
+
+Examples:
+- `09.12.24-blue-ocean-classics-analysis.md`
+- `15.01.25-vietnam-insurance-social-listening.md`
+- `22.03.25-edtech-hypotheses.md`
+
+This ensures every output file is traceable to when it was created.
+
+### Other Conventions
+
 - **Numbered folders** (`0-`, `1-`, etc.) indicate learning/process order
 - **ASCII diagrams** are used for canvas representations — preserve these when editing
 - **✅ Good / ❌ Bad** format shows examples of proper vs improper usage
@@ -131,6 +144,38 @@ Each hypothesis follows the "We believe that..." format and is:
 - **Precise** — Specific what, who, when
 - **Discrete** — One thing per hypothesis
 
+### Blue Ocean Strategist Agent
+
+Use the `blue-ocean-strategist` agent when developing new business concepts or analyzing market opportunities.
+
+**Trigger:** When you need to:
+- Apply Blue Ocean Strategy frameworks to a business idea
+- Create VPC/BMC with strategic differentiation
+- Identify market gaps and value innovation opportunities
+- Learn from proven blue ocean examples
+
+**Output:** Strategic analysis with Four Actions Framework, Strategy Canvas, and recommendations based on 10 classic blue ocean cases.
+
+### Canvas Refiner Agent
+
+Use `/refine-canvas [paste VPC/BMC]` to get improvement suggestions based on 10 successful blue ocean strategies.
+
+**Example:**
+```
+/refine-canvas [paste your Value Proposition Canvas]
+/refine-canvas Based on the insurance BMC above...
+```
+
+**Output:** Refinement report with:
+- Four Actions Framework analysis (Eliminate, Reduce, Raise, Create)
+- Non-customer segments to target
+- Ecosystem opportunities
+- Before/After strategy canvas
+- Blue Ocean parallels for each suggestion
+
+**Blue Ocean Examples Used:**
+Nintendo Wii, Cirque du Soleil, Dyson, Southwest Airlines, Yellow Tail, Curves, iTunes, Netflix, IKEA, Tesla
+
 ### Experiment Planner Agent
 
 Use the `experiment-planner` agent to transform validated hypotheses into actionable experiment plans with project charters.
@@ -174,6 +219,16 @@ export REDDIT_CLIENT_SECRET="your-client-secret"
 │  Jobs/Pains     │     │  Market Size    │     │  Assumptions    │     │  5 Experiment   │     │  Evidence       │
 │                 │     │                 │     │  Map Priority   │     │  Charters       │     │  Decisions      │
 └─────────────────┘     └─────────────────┘     └─────────────────┘     └─────────────────┘     └─────────────────┘
+                               │
+                               ▼
+                        ┌─────────────────┐
+                        │                 │
+                        │ /refine-canvas  │
+                        │                 │
+                        │ Blue Ocean      │
+                        │ Improvements    │
+                        │ (4 Actions)     │
+                        └─────────────────┘
 ```
 
 **Data Sources for Vietnam:**
@@ -181,6 +236,30 @@ export REDDIT_CLIENT_SECRET="your-client-secret"
 - Facebook public pages/groups (via Bright Data)
 - Reddit r/VietNam, r/vietnam (via Reddit MCP)
 - Google Search Vietnam (via Bright Data)
+
+## Blue Ocean Reference Examples
+
+When using the `blue-ocean-researcher` agent or analyzing blue ocean opportunities, reference these 10 classic examples as training data. Full analysis with VPC and BMC is available at `research-outputs/09.12.25-blue-ocean-classics-analysis.md`.
+
+| # | Company | Blue Ocean Move | Key Insight |
+|---|---------|-----------------|-------------|
+| 1 | **Nintendo Wii** | Motion controls for non-gamers | Targeted families/seniors ignored by industry |
+| 2 | **Cirque du Soleil** | Circus as adult theater | Eliminated animals, added theatrical storylines |
+| 3 | **Dyson** | Vacuums as premium technology | Eliminated bags, created status symbol |
+| 4 | **Southwest Airlines** | Flying cheaper than driving | Point-to-point, no frills, 10-min turnarounds |
+| 5 | **Yellow Tail Wine** | Wine for beer drinkers | Sweet taste, $6-8 price, kangaroo branding |
+| 6 | **Curves Fitness** | Women-only 30-min gyms | No mirrors, no men, simple circuit |
+| 7 | **iTunes/Apple** | Legal $0.99 song downloads | Broke album bundling, iPod ecosystem |
+| 8 | **Netflix** | No late fees → streaming | Eliminated physical media, enabled binge-watching |
+| 9 | **IKEA** | Affordable style via flat-pack | Self-assembly + showroom experience |
+| 10 | **Tesla** | EVs as performance vehicles | 0-60 in 2.3s, Supercharger network, direct sales |
+
+### Blue Ocean Patterns to Apply
+
+1. **Target non-customers** — Who is NOT buying because solutions don't fit them?
+2. **Eliminate sacred cows** — What does industry assume is "required" but customers don't value?
+3. **Create new value factors** — What would make non-customers suddenly interested?
+4. **Build ecosystems** — How can infrastructure lock in competitive advantage?
 
 ## When Updating Playbooks
 
