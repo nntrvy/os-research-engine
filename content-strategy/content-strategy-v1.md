@@ -10,7 +10,7 @@ We're not building a content brand. We're documenting a decade-long mission to b
 
 No thought leadership. No advice threads. No "5 tips for founders."
 
-Just the raw, unfiltered story of building startups that matter.
+Just the raw, unfiltered story of building startups that matter—and giving back everything we learn along the way.
 
 ---
 
@@ -22,30 +22,32 @@ We don't sit in offices making slide decks. We're in the streets, in the markets
 
 We build empathy first. Then we build products.
 
-And we document everything.
+And we document everything—in words, images, and video.
 
 ---
 
 ## The Content Philosophy
 
-### 1. Show, Don't Tell
+### 1. Learn in Public, Give Back Everything
 
-We don't write about "how to do customer interviews."
-We film ourselves doing them. The awkward silences. The breakthrough moments. The times we got it completely wrong.
+We study the world's best blue oceans. We test frameworks. We run experiments.
+Then we share it all. The tools, the templates, the failures.
 
-### 2. The Journey, Not The Destination
+The Vietnamese startup ecosystem rises together.
+
+### 2. Words and Images
+
+Great stories need both.
+Long-form essays for depth. Video for emotion. Diagrams for clarity.
+Each format serves its purpose.
+
+### 3. The Journey, Not The Destination
 
 We're not pretending to have answers.
 We're documenting the search for them.
 
 10 years. 50 blue oceans. Hundreds of failures. A few massive wins.
 Every step captured.
-
-### 3. Cinematic, Not Corporate
-
-Our content looks like a documentary, not a pitch deck.
-Think A24 meets Y Combinator.
-Beautiful. Raw. Real.
 
 ### 4. Quiet Confidence
 
@@ -58,91 +60,130 @@ The founders we back speak.
 
 ## Content Pillars
 
-### Pillar 1: The Field Notes (40%)
-*Behind the scenes of problem discovery*
+### Pillar 1: The Field Notes (25%)
+*Stories from problem discovery—written and filmed*
 
 What it looks like:
-- Video diary of visiting a wet market at 4am to understand vendor pain points
-- Photo essay of a week shadowing Grab drivers
-- Audio recording of a mother explaining why she doesn't trust insurance
-- Sketches and notes from user observation sessions
+- **Long-form essay:** "What I learned spending a week with Grab drivers"
+- **Video diary:** 10-minute documentary of visiting a wet market at 4am
+- **Written interview:** A mother's honest take on why she doesn't trust insurance
+- **Photo essay with narrative:** Shadowing street vendors, with their stories in their words
 
-Format: Raw, documentary-style. Handheld camera. Natural light. Real conversations.
+Format: Mix of written stories (Medium/Substack style) and documentary video. Real voices, real places.
 
 ---
 
-### Pillar 2: The Build Log (30%)
-*Prototypes, failures, iterations*
+### Pillar 2: The Build Log (20%)
+*Prototypes, failures, iterations—documented honestly*
 
 What it looks like:
-- Timelapse of building an MVP in 72 hours
-- Screenshot walkthrough of a prototype with honest critique
-- Video of user testing session (the good and the cringe)
-- Post-mortem of a product we killed and why
+- **Written case study:** "We killed this product after 6 weeks. Here's why."
+- **Video:** Timelapse of building an MVP in 72 hours
+- **Post-mortem essay:** What went wrong, what we'd do differently
+- **Screenshot walkthrough:** Annotated prototype with honest critique
 
-Format: Screen recordings, workshop footage, whiteboard sessions, code commits with context.
+Format: Detailed written analysis paired with visual documentation. Show the mess, not just the polish.
 
 ---
 
-### Pillar 3: The Founder Files (20%)
-*Stories of the people we back*
+### Pillar 3: The Blue Ocean Library (30%)
+*Learning from the world's best market creators*
+
+This is how we give back. We study blue ocean successes obsessively—and share every insight.
 
 What it looks like:
-- 5-minute mini-documentary on a founder's journey
-- Day-in-the-life video of a portfolio company
-- Interview in their actual workspace (not a studio)
-- The moment they decided to quit their job and build
+- **Blue Ocean Deep Dives:** Written analysis of how companies created new markets
+  - Nintendo Wii: How motion controls unlocked non-gamers
+  - Cirque du Soleil: Circus without animals, theater without seats
+  - Southwest Airlines: Making flying cheaper than driving
+  - Yellow Tail: Wine for people who drink beer
+  - Netflix: From DVDs to destroying Blockbuster
+  - Tesla: Electric cars as performance vehicles
+  - IKEA: Affordable design through flat-pack innovation
 
-Format: Cinematic portraits. Intimate. No corporate b-roll.
+- **Vietnam Blue Ocean Opportunities:** Original research on untapped markets
+  - Where are the non-customers?
+  - What can we eliminate that the industry assumes is sacred?
+  - What new value can we create?
+
+- **Four Actions Framework Applied:** Real examples of Eliminate-Reduce-Raise-Create
+
+- **Strategy Canvas Breakdowns:** Visual comparisons of industry vs. blue ocean moves
+
+Format: Primarily written (2,000-4,000 word essays), with strategy canvas diagrams and comparison tables. Evergreen reference content.
 
 ---
 
-### Pillar 4: The Playbook (10%)
-*Open-sourcing our methodology*
+### Pillar 4: The Playbook (25%)
+*Open-sourcing our entire methodology*
 
-What it looks like:
-- Visual guides to our validation process
-- Templates we actually use (Figma, Notion, sheets)
-- The frameworks that work (and the ones we abandoned)
-- Quarterly reflection on what we learned
+Everything we use, you can use. Free. No gatekeeping.
 
-Format: Clean, minimal design. Functional, not flashy. Free to download.
+**Innovation Frameworks (Strategyzer-based):**
+- Value Proposition Canvas templates and guides
+- Business Model Canvas with Vietnam examples
+- Testing Business Ideas methodology
+- Assumptions Mapping and prioritization
+
+**Experiment Library:**
+- 33 experiment types with step-by-step guides
+- When to use each experiment
+- Real examples from our ventures
+- Cost estimates and timelines
+
+**Hypothesis Framework:**
+- How to write testable hypotheses
+- Desirability → Feasibility → Viability sequence
+- Test Cards and Learning Cards templates
+
+**Blue Ocean Tools:**
+- Four Actions Framework templates
+- Strategy Canvas builder
+- Non-customer analysis guides
+- Value Innovation worksheets
+
+**What we share:**
+- Figma templates (VPC, BMC, Strategy Canvas)
+- Notion databases (experiment tracking, hypothesis management)
+- Google Sheets (validation scorecards, pivot decisions)
+- Written guides with examples
+
+Format: Clean, functional design. Downloadable templates. Written tutorials. Video walkthroughs for complex tools.
 
 ---
 
 ## The Channels
 
-### Primary: YouTube (Long-form Documentary)
+### Primary: Blog/Newsletter (Long-form Writing)
 
-This is where the real story lives.
+This is where depth lives. Weekly essays that people save and share.
 
 | Series | Format | Frequency |
 |--------|--------|-----------|
-| **Field Notes** | 10-20 min documentary episodes | 2x/month |
-| **Build in Public** | 5-10 min build logs | Weekly |
-| **Founder Files** | 15-30 min portraits | Monthly |
-| **The Playbook** | Tutorial/guide videos | Monthly |
+| **Field Notes** | 1,500-3,000 word essays | 2x/month |
+| **Blue Ocean Deep Dive** | 2,000-4,000 word analysis | 2x/month |
+| **Build Log** | Case studies, post-mortems | 2x/month |
+| **Playbook Release** | Framework guides, templates | Weekly |
 
-Why YouTube:
-- Long-form allows real storytelling
-- Searchable, evergreen content
-- Builds deep connection over time
-- Vietnam's YouTube penetration is massive
+Platform: Substack or self-hosted blog. Evergreen, searchable, shareable.
 
 ---
 
-### Secondary: Instagram (Visual Diary)
+### Secondary: YouTube (Documentary + Tutorials)
 
-The daily journal. Quick glimpses into the work.
+Video for stories that need to be seen, and tutorials that need to be shown.
 
-| Format | Content | Frequency |
-|--------|---------|-----------|
-| **Stories** | Behind-the-scenes, daily work | Daily |
-| **Reels** | 30-60 sec moments from the field | 3x/week |
-| **Carousel** | Photo essays, visual frameworks | 2x/week |
-| **Posts** | Key moments, milestones | 1x/week |
+| Series | Format | Frequency |
+|--------|--------|-----------|
+| **Field Notes** | 10-15 min documentary | 2x/month |
+| **Playbook Tutorials** | 5-10 min how-to guides | Weekly |
+| **Blue Ocean Breakdown** | 10-20 min visual analysis | Monthly |
+| **Build Log** | 5-10 min build updates | 2x/month |
 
-Aesthetic: Film photography feel. Warm tones. Human-centered. No stock photos ever.
+Why YouTube:
+- Tutorials need visual demonstration
+- Vietnam's YouTube penetration is massive
+- Searchable, evergreen content
 
 ---
 
@@ -153,22 +194,23 @@ One email. Every Friday. What happened this week.
 Structure:
 1. **This week in the field** - Where we went, who we talked to
 2. **What we're building** - Prototype updates, learnings
-3. **One honest reflection** - What's hard right now
-4. **Photo of the week** - One image that captures the week
+3. **Blue Ocean of the week** - One insight from our research
+4. **New in the Playbook** - Latest templates, frameworks released
+5. **One honest reflection** - What's hard right now
 
 No fluff. No links to "must-read articles." Just us.
 
 ---
 
-### LinkedIn: Minimal Presence
+### LinkedIn: For Playbook Releases
 
-We post when we have something real to share:
-- Major milestones
-- Founder announcements
-- Playbook releases
-- Big learnings
+We post when we have something to give:
+- New framework released
+- Playbook updates
+- Blue Ocean analysis published
+- Major learnings worth sharing
 
-Not for engagement farming. For credibility when people search us.
+Not for engagement. For reach when we're giving back.
 
 ---
 
@@ -178,25 +220,25 @@ This is a decade-long documentary. Each year has a chapter.
 
 ### Year 1-2: "Finding Our Footing"
 - First 10 problem domains explored
-- First prototypes built
-- First failures documented
-- Building the validation methodology
+- Playbook v1.0 published and open-sourced
+- Blue Ocean Library: 20 case studies
+- First prototypes built, first failures documented
 
 ### Year 3-4: "First Wins"
 - First successful venture launch
-- Playbook v1.0 published
-- Team growing
+- Playbook adopted by Vietnamese startups
+- Blue Ocean Library: 50 case studies
 - Government partnership discussions
 
 ### Year 5-6: "Scaling the Studio"
 - Multiple ventures running
-- Playbook adopted by ecosystem
+- Playbook becomes industry standard
 - International attention
 - First major exit
 
 ### Year 7-8: "The Engine"
 - Key player in Vietnam innovation
-- Training next generation
+- Training next generation of founders
 - Policy influence
 - Regional expansion
 
@@ -210,82 +252,77 @@ This is a decade-long documentary. Each year has a chapter.
 
 ## Content Production
 
-### The Setup
-
-| Equipment | Purpose | Budget |
-|-----------|---------|--------|
-| Sony ZV-E10 or similar | Main camera | $800-1,200 |
-| DJI Mic | Audio | $300 |
-| iPhone 15 Pro | B-roll, stories | (existing) |
-| Portable LED | Interviews | $100 |
-| Gimbal | Smooth footage | $150 |
-
-Total: ~$1,500-2,000 to start
-
 ### The Team
 
-**Content Strategist / Filmmaker (1 person)**
+**Content Lead (1 person)**
 
-This isn't a social media manager. This is a documentary filmmaker who happens to work at a startup studio.
+Equal parts writer and visual storyteller.
 
 Skills needed:
+- Strong writer (essays, case studies, tutorials)
 - Can shoot and edit video (Premiere/Final Cut/DaVinci)
-- Has a visual eye (photography, cinematography)
-- Can write (captions, scripts, newsletter)
-- Comfortable in the field (follows team on research trips)
+- Visual eye for diagrams, templates, frameworks
+- Comfortable in the field (joins research trips)
 - Vietnamese fluent, English proficient
+- Understands business strategy and startups
 
 Mindset:
-- Patient storyteller, not content churner
+- Curious learner, not content churner
 - Quality over quantity
-- Finds beauty in mundane moments
-- Understands startups and business
+- Obsessed with clarity and usefulness
+- Wants to give back to the ecosystem
 
 **Compensation:** 30-50M VND/month ($1,200-2,000)
 
 ---
 
+### The Setup
+
+| Equipment | Purpose | Budget |
+|-----------|---------|--------|
+| MacBook/laptop | Writing, editing | (existing) |
+| Sony ZV-E10 or similar | Video | $800-1,200 |
+| DJI Mic | Audio | $300 |
+| iPhone 15 Pro | B-roll, quick captures | (existing) |
+| Figma/Notion | Templates, frameworks | Free-$15/mo |
+
+Total: ~$1,500 to start
+
+---
+
 ## The First 90 Days
 
-### Month 1: Capture Everything
+### Month 1: Build the Foundation
 
-No publishing yet. Just film.
+- [ ] Audit existing playbooks and frameworks
+- [ ] Write first 3 Blue Ocean deep dives (Nintendo Wii, Cirque, Southwest)
+- [ ] Create Figma templates for VPC, BMC, Strategy Canvas
+- [ ] Document one problem discovery cycle (written + video)
+- [ ] Set up blog/newsletter platform
 
-- [ ] Document a full problem discovery cycle
-- [ ] Film team discussions and debates
-- [ ] Record user interviews (with permission)
-- [ ] Take photos of everything
-- [ ] Start a visual archive
+### Month 2: Start Publishing
 
-Build the raw material library.
-
-### Month 2: Find The Voice
-
-Edit the first pieces. Find what works.
-
-- [ ] Cut first Field Notes episode (10-15 min)
-- [ ] Create Instagram aesthetic (test posts, don't publish)
-- [ ] Write first 4 newsletter drafts
-- [ ] Get feedback from team
-
-Don't publish until it feels right.
-
-### Month 3: Soft Launch
-
-Start sharing. See what resonates.
-
-- [ ] Launch YouTube with 2-3 videos
-- [ ] Start Instagram posting
-- [ ] Send first newsletters to small list
+- [ ] Launch newsletter with first 4 issues
+- [ ] Publish first Blue Ocean essays
+- [ ] Release first batch of Playbook templates
+- [ ] Film first Field Notes documentary
 - [ ] Gather feedback, iterate
 
-### Month 4+: Consistent Rhythm
+### Month 3: Find the Rhythm
+
+- [ ] Consistent weekly publishing cadence
+- [ ] Launch YouTube with tutorial content
+- [ ] 10+ Blue Ocean case studies live
+- [ ] Full experiment library documented
+- [ ] Community starting to engage
+
+### Month 4+: Scale What Works
 
 Weekly cadence:
-- Mon-Wed: Filming / fieldwork
-- Thu: Editing
-- Fri: Newsletter + publishing
-- Weekend: Rest, reflection
+- Mon-Tue: Research, writing
+- Wed-Thu: Filming, editing
+- Fri: Newsletter, publishing
+- Weekend: Rest, reading, learning
 
 ---
 
@@ -301,17 +338,17 @@ We don't care about:
 ### Real Impact
 
 We care about:
-- **Founders who found us and said "this is what I needed"**
-- **Other studios asking to learn our methodology**
-- **Government citing our playbook in innovation policy**
-- **Products we built that users genuinely love**
+- **Founders who use our playbook to validate their ideas**
+- **Startups applying Blue Ocean thinking because of our essays**
+- **Other studios adopting our open-source methodology**
+- **Government referencing our frameworks in innovation policy**
 - **A body of work we're proud of in 10 years**
 
 ### The Ultimate Measure
 
-In 2036, someone studying Vietnam's startup ecosystem watches our content and understands exactly how it was built.
+In 2036, a first-time founder in Da Nang uses our Playbook to validate their idea, reads our Blue Ocean essays to find their market, and builds something that matters.
 
-That's the archive we're creating.
+That's why we give it all away.
 
 ---
 
@@ -319,18 +356,18 @@ That's the archive we're creating.
 
 ### What We Do
 
+- Write essays worth saving
+- Create tools worth using
+- Study blue oceans obsessively and share every insight
 - Show real work, real people, real moments
-- Embrace imperfection and failure
-- Tell human stories, not business stories
-- Create beautiful, cinematic content
-- Open-source our learnings
+- Open-source everything
 - Take our time to get it right
 
 ### What We Don't Do
 
 - Engagement bait or growth hacks
 - Advice threads or hot takes
-- Corporate polish or stock imagery
+- Gatekeep knowledge behind paywalls
 - Post for the sake of posting
 - Chase trends or algorithms
 - Pretend we have all the answers
@@ -339,19 +376,20 @@ That's the archive we're creating.
 
 ## The Vibe
 
-**References:**
+**Writing References:**
+- *Paul Graham essays* - Clear thinking, zero fluff
+- *Strategyzer blog* - Practical frameworks, real examples
+- *First Round Review* - Deep tactical content
+- *Wait But Why* - Complex ideas made accessible
 
+**Visual References:**
 - *Jiro Dreams of Sushi* - Obsessive craft, quiet mastery
-- *Anthony Bourdain: Parts Unknown* - Real places, real people
 - *Abstract: The Art of Design* - Beautiful process documentation
-- *Patagonia's brand films* - Values-driven, authentic
-- *Humans of New York* - Intimate human stories
 
-**Music:** Ambient, minimal, emotional. Think Ólafur Arnalds, Nils Frahm.
-
-**Color:** Warm, filmic. Not oversaturated. Real.
-
-**Pacing:** Slow when it needs to be. Let moments breathe.
+**Design:**
+- Clean, functional, readable
+- Diagrams that clarify, not decorate
+- Templates that work, not just look good
 
 ---
 
@@ -359,11 +397,11 @@ That's the archive we're creating.
 
 We're not building a content strategy.
 
-We're building an archive of a mission.
+We're building an open-source playbook for Vietnam's startup ecosystem.
 
-Every video, photo, and word is a piece of evidence that we showed up, did the work, and tried to build something that matters.
+Every essay, template, and framework is a gift to founders who are just starting out. Every Blue Ocean analysis is a lesson we learned the hard way.
 
-In 10 years, this content will be the proof.
+In 10 years, this content will be the proof that we showed up, did the work, and gave back everything we learned.
 
 ---
 
@@ -371,5 +409,5 @@ In 10 years, this content will be the proof.
 
 ---
 
-**Version:** 1.0
+**Version:** 1.1
 **Date:** January 2026
