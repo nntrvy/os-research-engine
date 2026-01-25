@@ -2,22 +2,37 @@
 
 All notable changes to OS Research Engine are documented in this file.
 
-## [2026-01-25] - Vietnam Top Problems Research & AVEP Comparison
+## [2026-01-25] - Vietnam Top Problems Research & Content Strategy
 
 ### Added
 - `research-outputs/24.01.26-vietnam-top-problems-market-research.md` - Comprehensive market research on Vietnam's 5 top problem domains
 - `research-outputs/24.01.26-vietnam-top-problems-hypotheses.docx` - 5 critical hypotheses with Assumptions Map prioritization
 - `research-outputs/25.01.26-avep-vs-osr-analysis.docx` - Comparative analysis of AVEP and OSR models
-- `content-strategy/content-strategy-v1.md` - Documentary-style 10-year content strategy
+- `content-strategy/content-strategy-v1.md` - OS Research content strategy (v1.0 → v1.1 → v1.2)
 - `session-summaries/25.01.26-session-summary.md` - Session documentation
 - `CHANGELOG.md` - This file
 
-### Content Strategy
-- **Philosophy:** "10-Year Journal" documenting the mission to become Vietnam's #1 venture studio
-- **Primary Channel:** YouTube (documentary episodes 10-30 min)
-- **4 Pillars:** Field Notes (40%), Build Log (30%), Founder Files (20%), Playbook (10%)
-- **Aesthetic:** Cinematic, A24 meets Y Combinator, Bourdain-style storytelling
-- **Role:** Content Strategist/Filmmaker (30-50M VND/month)
+### Content Strategy Evolution
+**v1.0: Initial Documentary Approach**
+- Philosophy: "10-Year Journal" documenting the mission to become Vietnam's #1 venture studio
+- Primary Channel: YouTube (documentary episodes 10-30 min)
+- 4 Pillars: Field Notes (40%), Build Log (30%), Founder Files (20%), Playbook (10%)
+- Aesthetic: Cinematic, A24 meets Y Combinator, Bourdain-style storytelling
+
+**v1.1: Rebalanced for Blue Ocean Focus**
+- Renamed "Founder Files" → "Blue Ocean Library" (30%, increased from 20%)
+- Field Notes: 25% (reduced from 40%)
+- Build Log: 20% (reduced from 30%)
+- Playbook: 25% (increased from 10%)
+- Goal: 20 Blue Ocean case studies by Year 1, 50 by Year 3
+
+**v1.2: Streamlined for Content Team (FINAL)**
+- Primary Channel: Blog + Newsletter (not YouTube)
+- Secondary: YouTube (playbook tutorials, field documentaries)
+- Budget: 50M VND/month for 1 Content Lead (vs initial 30-50M for multiple roles)
+- Added IP Education Initiative (aligned with Vietnamese government programs)
+- Removed fluff, made tables-focused, added 90-day plan with checkboxes
+- Weekly newsletter: "Weekly Dispatch" every Friday
 
 ### Research Conducted
 - Vietnam top problems analysis across 5 domains (Economic, Education, Healthcare, Urban, Financial)
