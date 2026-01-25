@@ -8,8 +8,16 @@ All notable changes to OS Research Engine are documented in this file.
 - `research-outputs/24.01.26-vietnam-top-problems-market-research.md` - Comprehensive market research on Vietnam's 5 top problem domains
 - `research-outputs/24.01.26-vietnam-top-problems-hypotheses.docx` - 5 critical hypotheses with Assumptions Map prioritization
 - `research-outputs/25.01.26-avep-vs-osr-analysis.docx` - Comparative analysis of AVEP and OSR models
+- `content-strategy/content-strategy-v1.md` - Documentary-style 10-year content strategy
 - `session-summaries/25.01.26-session-summary.md` - Session documentation
 - `CHANGELOG.md` - This file
+
+### Content Strategy
+- **Philosophy:** "10-Year Journal" documenting the mission to become Vietnam's #1 venture studio
+- **Primary Channel:** YouTube (documentary episodes 10-30 min)
+- **4 Pillars:** Field Notes (40%), Build Log (30%), Founder Files (20%), Playbook (10%)
+- **Aesthetic:** Cinematic, A24 meets Y Combinator, Bourdain-style storytelling
+- **Role:** Content Strategist/Filmmaker (30-50M VND/month)
 
 ### Research Conducted
 - Vietnam top problems analysis across 5 domains (Economic, Education, Healthcare, Urban, Financial)
