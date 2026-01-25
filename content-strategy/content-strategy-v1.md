@@ -1,481 +1,375 @@
 # OS Research Content Strategy
 
+**The 10-Year Journal**
+
+---
+
+## The Vision
+
+We're not building a content brand. We're documenting a decade-long mission to become Vietnam's #1 venture studio.
+
+No thought leadership. No advice threads. No "5 tips for founders."
+
+Just the raw, unfiltered story of building startups that matter.
+
+---
+
+## Who We Are
+
+**An independent startup studio that gets our hands dirty.**
+
+We don't sit in offices making slide decks. We're in the streets, in the markets, in the factories. Talking to Grab drivers about their insurance fears. Sitting with street vendors at 5am to understand their day. Watching how families make financial decisions.
+
+We build empathy first. Then we build products.
+
+And we document everything.
+
+---
+
+## The Content Philosophy
+
+### 1. Show, Don't Tell
+
+We don't write about "how to do customer interviews."
+We film ourselves doing them. The awkward silences. The breakthrough moments. The times we got it completely wrong.
+
+### 2. The Journey, Not The Destination
+
+We're not pretending to have answers.
+We're documenting the search for them.
+
+10 years. 50 blue oceans. Hundreds of failures. A few massive wins.
+Every step captured.
+
+### 3. Cinematic, Not Corporate
+
+Our content looks like a documentary, not a pitch deck.
+Think A24 meets Y Combinator.
+Beautiful. Raw. Real.
+
+### 4. Quiet Confidence
+
+We don't need to be loud.
+The work speaks.
+The products speak.
+The founders we back speak.
+
+---
+
+## Content Pillars
+
+### Pillar 1: The Field Notes (40%)
+*Behind the scenes of problem discovery*
+
+What it looks like:
+- Video diary of visiting a wet market at 4am to understand vendor pain points
+- Photo essay of a week shadowing Grab drivers
+- Audio recording of a mother explaining why she doesn't trust insurance
+- Sketches and notes from user observation sessions
+
+Format: Raw, documentary-style. Handheld camera. Natural light. Real conversations.
+
+---
+
+### Pillar 2: The Build Log (30%)
+*Prototypes, failures, iterations*
+
+What it looks like:
+- Timelapse of building an MVP in 72 hours
+- Screenshot walkthrough of a prototype with honest critique
+- Video of user testing session (the good and the cringe)
+- Post-mortem of a product we killed and why
+
+Format: Screen recordings, workshop footage, whiteboard sessions, code commits with context.
+
+---
+
+### Pillar 3: The Founder Files (20%)
+*Stories of the people we back*
+
+What it looks like:
+- 5-minute mini-documentary on a founder's journey
+- Day-in-the-life video of a portfolio company
+- Interview in their actual workspace (not a studio)
+- The moment they decided to quit their job and build
+
+Format: Cinematic portraits. Intimate. No corporate b-roll.
+
+---
+
+### Pillar 4: The Playbook (10%)
+*Open-sourcing our methodology*
+
+What it looks like:
+- Visual guides to our validation process
+- Templates we actually use (Figma, Notion, sheets)
+- The frameworks that work (and the ones we abandoned)
+- Quarterly reflection on what we learned
+
+Format: Clean, minimal design. Functional, not flashy. Free to download.
+
+---
+
+## The Channels
+
+### Primary: YouTube (Long-form Documentary)
+
+This is where the real story lives.
+
+| Series | Format | Frequency |
+|--------|--------|-----------|
+| **Field Notes** | 10-20 min documentary episodes | 2x/month |
+| **Build in Public** | 5-10 min build logs | Weekly |
+| **Founder Files** | 15-30 min portraits | Monthly |
+| **The Playbook** | Tutorial/guide videos | Monthly |
+
+Why YouTube:
+- Long-form allows real storytelling
+- Searchable, evergreen content
+- Builds deep connection over time
+- Vietnam's YouTube penetration is massive
+
+---
+
+### Secondary: Instagram (Visual Diary)
+
+The daily journal. Quick glimpses into the work.
+
+| Format | Content | Frequency |
+|--------|---------|-----------|
+| **Stories** | Behind-the-scenes, daily work | Daily |
+| **Reels** | 30-60 sec moments from the field | 3x/week |
+| **Carousel** | Photo essays, visual frameworks | 2x/week |
+| **Posts** | Key moments, milestones | 1x/week |
+
+Aesthetic: Film photography feel. Warm tones. Human-centered. No stock photos ever.
+
+---
+
+### Tertiary: Newsletter (The Weekly Dispatch)
+
+One email. Every Friday. What happened this week.
+
+Structure:
+1. **This week in the field** - Where we went, who we talked to
+2. **What we're building** - Prototype updates, learnings
+3. **One honest reflection** - What's hard right now
+4. **Photo of the week** - One image that captures the week
+
+No fluff. No links to "must-read articles." Just us.
+
+---
+
+### LinkedIn: Minimal Presence
+
+We post when we have something real to share:
+- Major milestones
+- Founder announcements
+- Playbook releases
+- Big learnings
+
+Not for engagement farming. For credibility when people search us.
+
+---
+
+## The 10-Year Arc
+
+This is a decade-long documentary. Each year has a chapter.
+
+### Year 1-2: "Finding Our Footing"
+- First 10 problem domains explored
+- First prototypes built
+- First failures documented
+- Building the validation methodology
+
+### Year 3-4: "First Wins"
+- First successful venture launch
+- Playbook v1.0 published
+- Team growing
+- Government partnership discussions
+
+### Year 5-6: "Scaling the Studio"
+- Multiple ventures running
+- Playbook adopted by ecosystem
+- International attention
+- First major exit
+
+### Year 7-8: "The Engine"
+- Key player in Vietnam innovation
+- Training next generation
+- Policy influence
+- Regional expansion
+
+### Year 9-10: "#1 Venture Studio"
+- 50 blue oceans achieved
+- Definitive playbook
+- Legacy established
+- What's next?
+
+---
+
+## Content Production
+
+### The Setup
+
+| Equipment | Purpose | Budget |
+|-----------|---------|--------|
+| Sony ZV-E10 or similar | Main camera | $800-1,200 |
+| DJI Mic | Audio | $300 |
+| iPhone 15 Pro | B-roll, stories | (existing) |
+| Portable LED | Interviews | $100 |
+| Gimbal | Smooth footage | $150 |
+
+Total: ~$1,500-2,000 to start
+
+### The Team
+
+**Content Strategist / Filmmaker (1 person)**
+
+This isn't a social media manager. This is a documentary filmmaker who happens to work at a startup studio.
+
+Skills needed:
+- Can shoot and edit video (Premiere/Final Cut/DaVinci)
+- Has a visual eye (photography, cinematography)
+- Can write (captions, scripts, newsletter)
+- Comfortable in the field (follows team on research trips)
+- Vietnamese fluent, English proficient
+
+Mindset:
+- Patient storyteller, not content churner
+- Quality over quantity
+- Finds beauty in mundane moments
+- Understands startups and business
+
+**Compensation:** 30-50M VND/month ($1,200-2,000)
+
+---
+
+## The First 90 Days
+
+### Month 1: Capture Everything
+
+No publishing yet. Just film.
+
+- [ ] Document a full problem discovery cycle
+- [ ] Film team discussions and debates
+- [ ] Record user interviews (with permission)
+- [ ] Take photos of everything
+- [ ] Start a visual archive
+
+Build the raw material library.
+
+### Month 2: Find The Voice
+
+Edit the first pieces. Find what works.
+
+- [ ] Cut first Field Notes episode (10-15 min)
+- [ ] Create Instagram aesthetic (test posts, don't publish)
+- [ ] Write first 4 newsletter drafts
+- [ ] Get feedback from team
+
+Don't publish until it feels right.
+
+### Month 3: Soft Launch
+
+Start sharing. See what resonates.
+
+- [ ] Launch YouTube with 2-3 videos
+- [ ] Start Instagram posting
+- [ ] Send first newsletters to small list
+- [ ] Gather feedback, iterate
+
+### Month 4+: Consistent Rhythm
+
+Weekly cadence:
+- Mon-Wed: Filming / fieldwork
+- Thu: Editing
+- Fri: Newsletter + publishing
+- Weekend: Rest, reflection
+
+---
+
+## What Success Looks Like
+
+### Not Vanity Metrics
+
+We don't care about:
+- Follower counts
+- Viral moments
+- Engagement rates
+
+### Real Impact
+
+We care about:
+- **Founders who found us and said "this is what I needed"**
+- **Other studios asking to learn our methodology**
+- **Government citing our playbook in innovation policy**
+- **Products we built that users genuinely love**
+- **A body of work we're proud of in 10 years**
+
+### The Ultimate Measure
+
+In 2036, someone studying Vietnam's startup ecosystem watches our content and understands exactly how it was built.
+
+That's the archive we're creating.
+
+---
+
+## Content Guidelines
+
+### What We Do
+
+- Show real work, real people, real moments
+- Embrace imperfection and failure
+- Tell human stories, not business stories
+- Create beautiful, cinematic content
+- Open-source our learnings
+- Take our time to get it right
+
+### What We Don't Do
+
+- Engagement bait or growth hacks
+- Advice threads or hot takes
+- Corporate polish or stock imagery
+- Post for the sake of posting
+- Chase trends or algorithms
+- Pretend we have all the answers
+
+---
+
+## The Vibe
+
+**References:**
+
+- *Jiro Dreams of Sushi* - Obsessive craft, quiet mastery
+- *Anthony Bourdain: Parts Unknown* - Real places, real people
+- *Abstract: The Art of Design* - Beautiful process documentation
+- *Patagonia's brand films* - Values-driven, authentic
+- *Humans of New York* - Intimate human stories
+
+**Music:** Ambient, minimal, emotional. Think Ólafur Arnalds, Nils Frahm.
+
+**Color:** Warm, filmic. Not oversaturated. Real.
+
+**Pacing:** Slow when it needs to be. Let moments breathe.
+
+---
+
+## Closing Thought
+
+We're not building a content strategy.
+
+We're building an archive of a mission.
+
+Every video, photo, and word is a piece of evidence that we showed up, did the work, and tried to build something that matters.
+
+In 10 years, this content will be the proof.
+
+---
+
+*"We will be unforgiving in solving problems and creating the most awesome products ever."*
+
+---
+
 **Version:** 1.0
 **Date:** January 2026
-**Purpose:** Guide for 1 content strategist to build OS Research's content presence from scratch
-
----
-
-## 1. Brand Positioning
-
-### Who We Are
-OS Research is Vietnam's validation-first venture capital. We back founders with evidence, not just conviction.
-
-### Brand Voice
-- **Tone:** Direct, practical, no-BS
-- **Style:** Data-driven but accessible
-- **Language:** Vietnamese primary, English for regional reach
-- **Personality:** Smart friend who's been through it, not lecturing professor
-
-### Key Messages
-1. "Test before you invest" - validation methodology matters
-2. "50 blue oceans" - we're building category-defining companies
-3. "Vietnam-first" - deep local knowledge, global standards
-4. "Small bets, big wins" - systematic approach to 100x returns
-
----
-
-## 2. Target Audience
-
-### Primary: Founders & Aspiring Entrepreneurs (70%)
-
-| Segment | Description | Pain Points |
-|---------|-------------|-------------|
-| **First-time founders** | 25-35, employed, side project | Don't know where to start, fear of quitting job |
-| **Serial entrepreneurs** | 30-45, 1-2 ventures | Need funding, validation methodology |
-| **Corporate escapees** | 28-40, senior roles | Have capital, lack startup skills |
-| **Technical founders** | 22-35, developers | Can build, can't sell or validate |
-
-### Secondary: Ecosystem Players (30%)
-
-| Segment | Why They Matter |
-|---------|-----------------|
-| **Other VCs/Angels** | Co-investment, deal flow |
-| **Accelerators/Incubators** | Referrals, partnerships |
-| **Media/Journalists** | Amplification, credibility |
-| **Corporate innovation** | Partnership opportunities |
-
----
-
-## 3. Content Pillars
-
-### Pillar 1: Validation Methodology (40%)
-*"How to test your idea before building"*
-
-Content themes:
-- Hypothesis testing frameworks
-- Cheap experiment designs
-- Customer interview techniques
-- Market research methods
-- Kill criteria (when to stop)
-
-### Pillar 2: Vietnam Market Intelligence (25%)
-*"What's actually happening in Vietnam"*
-
-Content themes:
-- Problem domain deep-dives (Insurance, EdTech, Healthcare, Urban, Finance)
-- Social listening insights
-- Market sizing data
-- Consumer behavior trends
-- Regulatory updates
-
-### Pillar 3: Founder Stories & Case Studies (20%)
-*"Learn from real examples"*
-
-Content themes:
-- Portfolio company journeys
-- Failed startup autopsies
-- Founder interviews
-- Before/after pivots
-- Validation success stories
-
-### Pillar 4: Blue Ocean Thinking (15%)
-*"Find uncontested markets"*
-
-Content themes:
-- Blue Ocean Strategy applied to Vietnam
-- Non-customer analysis
-- Four Actions Framework examples
-- Global case studies localized
-- Industry disruption opportunities
-
----
-
-## 4. Content Formats & Channels
-
-### Primary Channel: LinkedIn (Focus 60%)
-
-| Format | Frequency | Purpose |
-|--------|-----------|---------|
-| Short posts (200-300 words) | 5x/week | Engagement, reach |
-| Carousel slides | 2x/week | Education, saves |
-| Long-form articles | 1x/week | Authority, SEO |
-| Polls | 1x/week | Engagement, research |
-
-**Why LinkedIn:**
-- Vietnam's founders are there
-- B2B content performs well
-- Easy to start, measurable
-- Personal brand + company page
-
-### Secondary Channel: Newsletter (Focus 25%)
-
-| Element | Details |
-|---------|---------|
-| Platform | Substack (Vietnamese) |
-| Frequency | Weekly (Thursday 8am) |
-| Length | 800-1,200 words |
-| Name suggestion | "Thử Trước Khi Đầu Tư" (Test Before You Invest) |
-
-**Newsletter structure:**
-1. One big idea (validation concept)
-2. Vietnam market insight
-3. Tool/template of the week
-4. Founder spotlight (optional)
-5. OS Research updates
-
-### Tertiary Channel: Twitter/X (Focus 15%)
-
-| Format | Frequency | Purpose |
-|--------|-----------|---------|
-| Threads | 2x/week | Thought leadership |
-| Single tweets | Daily | Engagement |
-| Quote tweets | As relevant | Commentary |
-
-**Why Twitter:**
-- VC/startup community active
-- English for regional reach
-- Quick insights, real-time
-
-### Future Channels (Month 6+)
-- YouTube (long-form educational)
-- Podcast (founder interviews)
-- TikTok/Reels (short-form, younger audience)
-
----
-
-## 5. Content Calendar Framework
-
-### Weekly Rhythm
-
-| Day | LinkedIn | Newsletter | Twitter |
-|-----|----------|------------|---------|
-| Mon | Methodology post | - | Thread |
-| Tue | Market insight | - | Engagement |
-| Wed | Carousel | - | Engagement |
-| Thu | Poll | **Newsletter** | Thread |
-| Fri | Case study/story | - | Engagement |
-| Sat | - | - | - |
-| Sun | Week prep | - | - |
-
-### Monthly Themes
-
-| Month | Theme | Pillar Focus |
-|-------|-------|--------------|
-| 1 | Launch + Validation 101 | Methodology |
-| 2 | Vietnam Insurance Opportunity | Market Intel |
-| 3 | Customer Interview Mastery | Methodology |
-| 4 | EdTech & Education Gaps | Market Intel |
-| 5 | Pivot or Persevere | Case Studies |
-| 6 | Blue Ocean Vietnam | Blue Ocean |
-
-### Content Batching
-- **Week 1 of month:** Plan + research
-- **Week 2-3:** Create content batch
-- **Week 4:** Schedule + review performance
-
----
-
-## 6. Content Production Process
-
-### Workflow
-
-```
-Research → Outline → Draft → Review → Design → Schedule → Publish → Engage
-   ↓          ↓         ↓        ↓         ↓          ↓          ↓         ↓
-  2hr       30min     1hr      30min     30min      15min       -        1hr
-```
-
-### Weekly Time Allocation (20 hours/week)
-
-| Activity | Hours | Notes |
-|----------|-------|-------|
-| Research & ideation | 4 | Use OS Research outputs |
-| Writing | 6 | LinkedIn, newsletter, Twitter |
-| Design/visuals | 3 | Canva, simple graphics |
-| Scheduling & publishing | 2 | Buffer/Hootsuite |
-| Engagement & replies | 4 | Critical for growth |
-| Analytics & reporting | 1 | Weekly review |
-
-### Content Sources
-1. **OS Research outputs** - Market research, hypotheses, case studies
-2. **Founder conversations** - Interviews, feedback, stories
-3. **Social listening** - Voz.vn, Reddit, Facebook groups
-4. **Global content** - Localize Y Combinator, a]6z, First Round
-5. **Personal experience** - Founder's journey, lessons learned
-
----
-
-## 7. Launch Plan (First 90 Days)
-
-### Month 1: Foundation
-
-**Week 1-2: Setup**
-- [ ] Create LinkedIn company page
-- [ ] Optimize founder's personal LinkedIn
-- [ ] Set up Substack newsletter
-- [ ] Create Twitter account
-- [ ] Design brand templates (Canva)
-- [ ] Set up scheduling tool (Buffer free tier)
-
-**Week 3-4: Launch**
-- [ ] Publish "Why OS Research exists" manifesto
-- [ ] First 10 LinkedIn posts (methodology basics)
-- [ ] First newsletter issue
-- [ ] Announce on personal networks
-
-**Month 1 Goals:**
-- 500 LinkedIn followers
-- 200 newsletter subscribers
-- 10 posts published
-- 1 newsletter sent
-
-### Month 2: Consistency
-
-- Daily LinkedIn posting (5x/week)
-- Weekly newsletter
-- Start Twitter threads
-- First founder interview
-- First Vietnam market deep-dive
-
-**Month 2 Goals:**
-- 1,500 LinkedIn followers
-- 500 newsletter subscribers
-- 25 posts published
-- 4 newsletters sent
-- 1 viral post (>50 reposts)
-
-### Month 3: Optimization
-
-- Analyze what's working
-- Double down on top formats
-- Start guest content (podcast appearances, guest posts)
-- First case study published
-- Community engagement focus
-
-**Month 3 Goals:**
-- 3,000 LinkedIn followers
-- 1,000 newsletter subscribers
-- 40+ posts published
-- First inbound founder lead from content
-
----
-
-## 8. Key Performance Indicators
-
-### Growth Metrics
-
-| Metric | Month 1 | Month 3 | Month 6 | Month 12 |
-|--------|---------|---------|---------|----------|
-| LinkedIn followers | 500 | 3,000 | 8,000 | 20,000 |
-| Newsletter subscribers | 200 | 1,000 | 3,000 | 8,000 |
-| Twitter followers | 100 | 500 | 2,000 | 5,000 |
-
-### Engagement Metrics
-
-| Metric | Target |
-|--------|--------|
-| LinkedIn engagement rate | >5% |
-| Newsletter open rate | >40% |
-| Newsletter click rate | >8% |
-| Avg. post impressions | >5,000 |
-
-### Business Metrics
-
-| Metric | Target |
-|--------|--------|
-| Founder inquiries/month | 10+ by Month 6 |
-| Quality deal flow/month | 5+ by Month 6 |
-| Media mentions/quarter | 3+ by Month 6 |
-| Speaking invitations/quarter | 2+ by Month 6 |
-
----
-
-## 9. Tools & Resources
-
-### Essential Tools (Free/Low-cost)
-
-| Tool | Purpose | Cost |
-|------|---------|------|
-| Canva | Design | Free tier |
-| Buffer | Scheduling | Free (3 channels) |
-| Substack | Newsletter | Free |
-| Notion | Content calendar | Free |
-| Google Analytics | Website tracking | Free |
-| Shield | LinkedIn analytics | $8/month |
-
-### Nice-to-Have (Month 6+)
-
-| Tool | Purpose | Cost |
-|------|---------|------|
-| Figma | Advanced design | $15/month |
-| Descript | Video/podcast | $15/month |
-| SparkToro | Audience research | $50/month |
-| Taplio | LinkedIn automation | $49/month |
-
----
-
-## 10. Content Strategist Role
-
-### Job Description
-
-**Title:** Content Strategist
-**Type:** Full-time or Part-time (20+ hrs/week)
-**Location:** Remote (Vietnam preferred)
-
-**Responsibilities:**
-1. Own end-to-end content production for LinkedIn, Newsletter, Twitter
-2. Write/edit 5+ LinkedIn posts per week
-3. Produce weekly newsletter
-4. Engage with community daily (1-2 hours)
-5. Report on metrics weekly
-6. Coordinate with founders for interviews/stories
-7. Repurpose OS Research outputs into content
-
-**Requirements:**
-- Strong Vietnamese and English writing
-- Understanding of startup/VC ecosystem
-- LinkedIn content experience preferred
-- Self-motivated, can work independently
-- Basic design skills (Canva)
-
-**Nice-to-have:**
-- Startup experience (founder, early employee)
-- Existing audience/following
-- Newsletter experience
-- Video content skills
-
-### Hiring Process
-
-1. **Application:** Writing samples + LinkedIn profile
-2. **Test:** Write 3 LinkedIn posts from OS Research material
-3. **Interview:** Culture fit, startup understanding
-4. **Trial:** 2-week paid trial (5 posts + 1 newsletter)
-5. **Hire:** Full engagement
-
-### Compensation Benchmarks (Vietnam)
-
-| Level | Monthly (VND) | Monthly (USD) |
-|-------|---------------|---------------|
-| Junior (0-2 yrs) | 15-25M | $600-1,000 |
-| Mid (2-4 yrs) | 25-40M | $1,000-1,600 |
-| Senior (4+ yrs) | 40-60M | $1,600-2,400 |
-
----
-
-## 11. Content Ideas Bank
-
-### Methodology Content (Pillar 1)
-1. "The Mom Test: 5 questions that reveal if your idea sucks"
-2. "I spent VND 20M to kill my startup idea. Here's why that's a win."
-3. "Hypothesis template: The only format you need"
-4. "Fake door test: Get 1,000 signups before writing code"
-5. "When to pivot vs. when to quit (the decision framework)"
-
-### Market Intel Content (Pillar 2)
-1. "67% of Vietnamese workers have no insurance. Here's the opportunity."
-2. "Vietnam EdTech: $364M market, massive gaps"
-3. "$24 billion: The SME financing hole no one's filling"
-4. "What Grab drivers complain about (social listening report)"
-5. "Hanoi's pollution crisis = $14B startup opportunity"
-
-### Founder Stories (Pillar 3)
-1. "How [Founder] validated their idea in 2 weeks for VND 30M"
-2. "3 pivots, 2 years, 1 exit: [Company] story"
-3. "Why I killed my startup after 18 months (no regrets)"
-4. "From corporate to founder: The first 90 days"
-5. "Customer interview that changed everything"
-
-### Blue Ocean Content (Pillar 4)
-1. "Yellow Tail Wine strategy applied to Vietnam insurance"
-2. "Who's NOT buying? Finding your non-customers"
-3. "The 4 Actions Framework: Vietnam examples"
-4. "10 blue ocean opportunities in Vietnam right now"
-5. "Why competition is overrated (blue ocean thinking)"
-
----
-
-## 12. Measurement & Reporting
-
-### Weekly Report Template
-
-```
-## Week of [Date]
-
-### Content Published
-- LinkedIn: X posts
-- Newsletter: Sent/Not sent
-- Twitter: X tweets
-
-### Top Performing Content
-1. [Post title] - X impressions, X engagement
-2. [Post title] - X impressions, X engagement
-
-### Growth
-- LinkedIn: +X followers (total: X)
-- Newsletter: +X subscribers (total: X)
-- Twitter: +X followers (total: X)
-
-### Engagement
-- Comments replied: X
-- DMs received: X
-- Founder inquiries: X
-
-### Learnings
-- What worked:
-- What didn't:
-- Next week focus:
-```
-
-### Monthly Review Questions
-1. Which content pillar performed best?
-2. Which format got most engagement?
-3. What topics should we do more of?
-4. Any content gaps to fill?
-5. Are we hitting growth targets?
-
----
-
-## 13. Quick Start Checklist
-
-### Week 1 Priorities
-
-- [ ] Read OS Research materials (CLAUDE.md, research outputs)
-- [ ] Set up LinkedIn company page
-- [ ] Create Canva brand kit (colors: #0248f6, fonts: IBM Plex Sans)
-- [ ] Write first 5 LinkedIn posts
-- [ ] Set up Substack newsletter
-- [ ] Create content calendar in Notion
-- [ ] Schedule first week of content
-
-### First Post Ideas
-
-1. **Introduction:** "Why we started OS Research"
-2. **Methodology:** "The #1 mistake first-time founders make"
-3. **Market:** "Vietnam's $24B problem no one's solving"
-4. **Story:** "How we validate ideas before investing"
-5. **Value:** "Free template: Hypothesis testing worksheet"
-
----
-
-## 14. Success Definition
-
-### 6-Month Success Looks Like:
-- 8,000+ LinkedIn followers
-- 3,000+ newsletter subscribers
-- Recognized as "validation experts" in Vietnam startup scene
-- 5+ quality founder leads per month from content
-- 1+ media feature or podcast appearance per month
-- Content referenced by other ecosystem players
-
-### 12-Month Success Looks Like:
-- 20,000+ LinkedIn followers
-- 8,000+ newsletter subscribers
-- Top 3 VC content brand in Vietnam
-- Founders actively seek OS Research for validation methodology
-- Content drives 30%+ of deal flow
-- Speaking invitations at major startup events
-
----
-
-*This strategy is a living document. Review and update quarterly based on performance and learnings.*
