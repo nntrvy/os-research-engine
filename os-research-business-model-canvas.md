@@ -30,6 +30,8 @@
 
 ## Revenue Streams
 - Return on investment in successful startups
+- Revenue Sharing that tied to performance
+- Cash engine
 
 ---
 

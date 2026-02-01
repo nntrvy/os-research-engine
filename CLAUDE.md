@@ -39,7 +39,11 @@ OS Research Engine is a knowledge base and playbook system for OS Research, an i
     ├── 25003-xanhsm-programmatic-taxi-ads/
     ├── 26001-vietnam-top-problems/
     ├── 26002-avep-vs-osr-analysis/
-    └── 26006-reintegration-platform/
+    ├── 26003-startup-studio-content-strategies/
+    ├── 26004-vietnam-startup-tracker/
+    ├── 26005-ai-disability-accessibility/
+    ├── 26006-reintegration-platform/
+    └── 26007-children-age-2-10/
 ```
 
 ### Research Output Naming Convention
