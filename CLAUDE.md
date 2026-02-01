@@ -33,9 +33,21 @@ OS Research Engine is a knowledge base and playbook system for OS Research, an i
 ├── 4-decide-guide/                # Decision-making framework
 │   └── decide-guide.md            # Innovation loop, pivot/persevere decisions
 ├── 5-manage-guide/                # Team coordination (images only, no markdown yet)
-└── research-outputs/              # Generated research reports
-    └── social-listening/          # Social listening analysis outputs
+└── research-outputs/              # Generated research reports (ref-numbered folders)
+    ├── 25001-social-listening/
+    ├── 25002-blue-ocean-classics/
+    ├── 25003-xanhsm-programmatic-taxi-ads/
+    ├── 26001-vietnam-top-problems/
+    ├── 26002-avep-vs-osr-analysis/
+    └── 26006-reintegration-platform/
 ```
+
+### Research Output Naming Convention
+
+Folders use **ref numbers** with format: `{YY}{NNN}-{project-name}`
+- First 2 digits = Year (25 = 2025, 26 = 2026)
+- Next 3 digits = Sequential project number
+- Examples: `25001-social-listening`, `26006-reintegration-platform`
 
 ## Methodology Flow
 
@@ -62,6 +74,7 @@ This ensures every output file is traceable to when it was created.
 
 ### Other Conventions
 
+- **Default font:** IBM Plex Sans (for all generated documents)
 - **Numbered folders** (`0-`, `1-`, etc.) indicate learning/process order
 - **ASCII diagrams** are used for canvas representations — preserve these when editing
 - **✅ Good / ❌ Bad** format shows examples of proper vs improper usage
@@ -69,10 +82,40 @@ This ensures every output file is traceable to when it was created.
 - Each guide folder contains `.png` images as visual references alongside markdown
 - Cross-references between documents (VPC → BMC → Business Pitch) should remain accurate
 
+### Research Report Structure (V1)
+
+All research reports follow this standardized structure:
+
+1. **Executive Summary** — Key findings, metrics, and recommendations
+2. **Social Listening** — Pain points, jobs, gains from online discussions (VozForums, Tinhte, Facebook)
+3. **Web Traffic Analysis** — SimilarWeb, competitor traffic patterns
+4. **Search Trend Analysis** — Google Trends, keyword demand, seasonality
+5. **Google Reviews** — Customer feedback analysis from Maps/Play Store
+6. **Market Size** — TAM (Total), SAM (Serviceable), SOM (Obtainable)
+7. **Blue Ocean Strategy** — Four Actions Framework, Strategy Canvas, non-customers
+8. **Suggested VPC** — Value Proposition Canvas (for value creation)
+9. **Suggested BMC** — Business Model Canvas (for value capture)
+10. **Hypotheses** — Most important questions to validate (ends V1 report)
+
 ## Key Frameworks
 
 ### Hypothesis Format
-All hypotheses use: `"We believe that [specific, testable assumption]"`
+
+To avoid confirmation bias, hypotheses should include both positive AND negative statements:
+
+**Positive (confirming):**
+`"We believe that [specific action/feature] WILL [expected outcome]"`
+
+**Negative (disconfirming):**
+`"We believe that [specific action/feature] will NOT [expected outcome]"`
+
+**Examples:**
+- ✅ "We believe that SMEs WILL hire ex-prisoners if a trusted organization vouches for them"
+- ✅ "We believe that SMEs will NOT hire ex-prisoners without a guarantee, regardless of skills"
+- ✅ "We believe that users WILL pay 500K VND/month for family support services"
+- ✅ "We believe that users will NOT use a mobile app if it requires government ID verification"
+
+This dual approach forces teams to consider what would disprove their idea, not just confirm it.
 
 ### Three Hypothesis Types
 - **Desirability** (Market Risk): "Do they want this?" — Test first
@@ -188,6 +231,35 @@ Use the `experiment-planner` agent to transform validated hypotheses into action
 - Cost and resource requirements
 - Success/failure actions
 
+### DOCX Report Generator Agent
+
+Use the `docx-report-generator` agent to compile research findings into professional Word documents.
+
+**Trigger:** When research is complete and needs to be exported for sharing
+
+**Output:** Formatted .docx file with:
+- Professional styling (IBM Plex Sans font)
+- Tables and data visualizations
+- Structured sections following the Research Report Structure
+- Vietnamese language support
+
+### Spin-off Skill
+
+Use `/spin-off [project name]` to create a standalone project from validated research.
+
+**Example:**
+```
+/spin-off vietnam life insurance research
+/spin-off xanhsm taxi ads
+```
+
+**Output:**
+- New project directory in `/Users/Vincent/osr-company/os-{project-name}/`
+- Copied research files
+- Initialized git repo
+- README.md with project context
+- CLAUDE.md with project-specific guidance
+
 ### MCP Servers (Configured in `.claude/settings.local.json`)
 
 | Server | Purpose | Key Tools |
@@ -215,20 +287,34 @@ export REDDIT_CLIENT_SECRET="your-client-secret"
 │                 │     │                 │     │                 │     │                 │     │                 │
 │  /social-listen │────▶│  osr-researcher │────▶│  /hypothesizer  │────▶│ experiment-     │────▶│  Learning       │
 │                 │     │                 │     │                 │     │ planner         │     │  Cards          │
-│  Discover       │     │  VPC + BMC      │     │  10 Hypotheses  │     │                 │     │                 │
-│  Jobs/Pains     │     │  Market Size    │     │  Assumptions    │     │  5 Experiment   │     │  Evidence       │
-│                 │     │                 │     │  Map Priority   │     │  Charters       │     │  Decisions      │
+│  Discover       │     │  Full Report:   │     │  10 Hypotheses  │     │                 │     │                 │
+│  Jobs/Pains     │     │  - Social Listen│     │  (WILL + will   │     │  5 Experiment   │     │  Evidence       │
+│                 │     │  - Web Traffic  │     │   NOT format)   │     │  Charters       │     │  Decisions      │
+│                 │     │  - Search Trends│     │                 │     │                 │     │                 │
+│                 │     │  - Google Review│     │  Assumptions    │     │                 │     │                 │
+│                 │     │  - Market Size  │     │  Map Priority   │     │                 │     │                 │
+│                 │     │  - Blue Ocean   │     │                 │     │                 │     │                 │
+│                 │     │  - VPC + BMC    │     │                 │     │                 │     │                 │
 └─────────────────┘     └─────────────────┘     └─────────────────┘     └─────────────────┘     └─────────────────┘
-                               │
-                               ▼
-                        ┌─────────────────┐
-                        │                 │
-                        │ /refine-canvas  │
-                        │                 │
-                        │ Blue Ocean      │
-                        │ Improvements    │
-                        │ (4 Actions)     │
-                        └─────────────────┘
+                               │                        │
+                               ▼                        ▼
+                        ┌─────────────────┐     ┌─────────────────┐
+                        │                 │     │                 │
+                        │ /refine-canvas  │     │ docx-report-    │
+                        │                 │     │ generator       │
+                        │ Blue Ocean      │     │                 │
+                        │ Improvements    │     │ Export to Word  │
+                        │ (4 Actions)     │     │ (IBM Plex Sans) │
+                        └─────────────────┘     └─────────────────┘
+                                                        │
+                                                        ▼
+                                                ┌─────────────────┐
+                                                │                 │
+                                                │  /spin-off      │
+                                                │                 │
+                                                │  Create new     │
+                                                │  project repo   │
+                                                └─────────────────┘
 ```
 
 **Data Sources for Vietnam:**
