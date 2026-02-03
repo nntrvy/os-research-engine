@@ -2,6 +2,34 @@
 
 All notable changes to OS Research Engine are documented in this file.
 
+## [2026-02-03] - BeeVN Digital Partnership VPC/BMC
+
+### Added
+- `research-outputs/26009-bee-digital-v1/` - Complete BeeVN-Digital partnership research package
+  - `research/` - 18 research files (00-17) including market analysis and electrik technology reports
+  - `outputs/bee-digital-vpc-bmc.md` - Final VPC/BMC v1.0 with changelog
+  - `README.md` - Project overview and structure documentation
+- VC-roaster agent used to critique and optimize business model
+
+### Changed
+- Renamed project from "electrik" to "bee-digital" reflecting partnership focus
+- Consolidated multiple VPC/BMC iterations into single version-controlled file
+- Removed outdated `electrik-project/` and `electrik-project-market-research/` folders
+
+### Research Conducted
+- Read comprehensive electrik market research (docx) on Vietnam collision insurance technology
+- Analyzed BeeVN as primary customer (not insurers)
+- Identified two core functions: (1) Sell Insurance (2) Manage Claim SLA
+- Partnership structure: OSR = technology, BeeVN = customers + insurers + investment
+
+### Key Findings
+- BeeVN partnership model focuses on serving digital insurance agency rather than insurers directly
+- OSR provides white-label technology platform
+- BeeVN brings existing insurance partnerships, customer base, and capital
+- Reorganized all research into structured folder for future reference
+
+---
+
 ## [2026-01-25] - Vietnam Top Problems Research & Content Strategy
 
 ### Added
