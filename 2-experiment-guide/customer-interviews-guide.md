@@ -364,5 +364,12 @@ HYPOTHESES VALIDATED/INVALIDATED
 
 ---
 
+## Related Resources
+
+- **The Mom Test:** `the-mom-test.md` — Framework for avoiding false validation in customer conversations (compliments, fluff, hypotheticals)
+- **Experiment #06:** `experiments-library/06-customer-interviews.md` — Quick reference card for customer interviews
+
+---
+
 *Source: Strategyzer - Ground Rules for Interviewing & Interview Questions Cheat Sheet*
 *Adapted for OS Research Engine*

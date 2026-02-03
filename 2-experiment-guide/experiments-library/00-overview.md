@@ -77,6 +77,7 @@ Each experiment is presented with a consistent structure:
 3. Come back regularly to compare across methods
 4. Start with cheaper, faster experiments before investing in expensive ones
 5. Combine multiple experiments for stronger evidence
+6. **Apply The Mom Test** (`../the-mom-test.md`) to all customer conversations — avoid compliments, fluff, and hypotheticals
 
 ---
 

@@ -27,6 +27,8 @@ OS Research Engine is a knowledge base and playbook system for OS Research, an i
 │   ├── experiment-guide.md        # Test Cards, experiment methodology
 │   ├── experiment-series.md       # 4 business model experiment sequences
 │   ├── social-listening.md        # Social listening methodology
+│   ├── the-mom-test.md            # Customer interview methodology (avoid false validation)
+│   ├── customer-interviews-guide.md # Detailed interview questions (Strategyzer)
 │   └── experiments-library/       # 33 detailed experiment guides (01-33)
 ├── 3-learn-guide/                 # Evidence collection and learning
 │   └── learn-guide.md             # Learning Cards, evidence strength, confidence levels
@@ -133,6 +135,30 @@ TEST: To verify that, we will [action]
 METRIC: And measure [data point]
 CRITERIA: We are right if [threshold]
 ```
+
+### The Mom Test (Customer Interviews)
+
+When talking to customers, follow The Mom Test framework to avoid false validation:
+
+**The 3 Rules:**
+1. **Talk about their life, not your idea** — Don't mention your solution until you understand their problems
+2. **Ask about specifics in the past, not hypotheticals about the future** — "When did you last..." not "Would you ever..."
+3. **Talk less and listen more** — 80% listening, 20% talking
+
+**Bad Data to Watch For:**
+- **Compliments:** "That's a cool idea!" → Deflect and dig for specifics
+- **Fluff:** "I would definitely use that" → Anchor to past behavior
+- **Feature requests:** "You should add X" → Ask "why would that help?"
+
+**Seek Commitment, Not Compliments:**
+- **Time:** Agreeing to longer follow-ups, trials, team intros
+- **Reputation:** Introductions to decision-makers, testimonials
+- **Money:** Pre-orders, deposits, letters of intent
+
+**Good Question:** "Tell me about the last time you dealt with [problem]"
+**Bad Question:** "Would you use a product that does X?"
+
+Full guide: `2-experiment-guide/the-mom-test.md`
 
 ### Experiment Library (33 Experiments)
 
