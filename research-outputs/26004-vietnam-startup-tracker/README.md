@@ -204,3 +204,12 @@
 3. **Content partnerships:** Approach High/Medium-High media presence founders
 4. **Fill research gaps:** Interview Unknown media presence founders
 5. **Track portfolio candidates:** Add "Status" column values as you research deeper
+
+---
+
+## Changelog
+
+| Date | Change |
+|------|--------|
+| 29.01.26 | Initial creation - 100 startups tracked with funding data |
+| 05.02.26 | Added Changelog table following new template

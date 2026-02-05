@@ -96,4 +96,17 @@ The project began as "embedded insurance" for Vingroup apps. Through validation:
 
 ---
 
+---
+
+## Changelog
+
+| Date | Change |
+|------|--------|
+| 14.12.25 | Initial embedded insurance research |
+| 03.02.26 | Pivoted to bee-digital platform model |
+| 03.02.26 | VPC/BMC complete, ready for pitch |
+| 05.02.26 | Added Changelog table following new template
+
+---
+
 *bee-digital: Sell insurance. Enforce SLAs. Protect Vingroup.*

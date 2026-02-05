@@ -166,3 +166,14 @@ All agents ran in parallel, gathering data from:
 - Startup databases (Crunchbase, Tracxn, PitchBook)
 - Technical papers (Nature, MDPI, WACV)
 - News sources (TechCrunch, Berkeley News)
+
+---
+
+## Changelog
+
+| Date | Change |
+|------|--------|
+| 30.01.26 | Initial creation - v1 research report |
+| 30.01.26 | Added v2 comprehensive multi-agent research |
+| 30.01.26 | Added Vietnamese translations (.docx) |
+| 05.02.26 | Added Changelog table following new template

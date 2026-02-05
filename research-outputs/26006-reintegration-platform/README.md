@@ -71,6 +71,11 @@ Malaysia CRP (Community Rehabilitation Programme) - Instead of building more exp
 - Singapore SCORE Program
 - Malaysia CRP Model
 
-## Date
+---
 
-30.01.26
+## Changelog
+
+| Date | Change |
+|------|--------|
+| 30.01.26 | Initial creation - research report and summary |
+| 05.02.26 | Added Changelog table following new template
