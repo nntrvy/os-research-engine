@@ -1,10 +1,11 @@
 # 26009: bee-digital v1
 
 **Project:** bee-digital (formerly Electrik)
-**Type:** OSR Cash Engine Project
+**Type:** Experiment Project (Cash Engine Pipeline)
 **Partner:** BeeVN-Digital (Vingroup Insurance Broker)
-**Status:** VPC/BMC Complete - Ready for Pitch
-**Date:** 03.02.26
+**Status:** Experiment Phase - Q1 2026 Focus
+**Created:** 14.12.25
+**Experiment Period:** Feb - Apr 2026
 
 ---
 
@@ -105,7 +106,8 @@ The project began as "embedded insurance" for Vingroup apps. Through validation:
 | 14.12.25 | Initial embedded insurance research |
 | 03.02.26 | Pivoted to bee-digital platform model |
 | 03.02.26 | VPC/BMC complete, ready for pitch |
-| 05.02.26 | Added Changelog table following new template
+| 05.02.26 | Added Changelog table following new template |
+| 05.02.26 | Moved to experiment-projects/ - Q1 2026 focus |
 
 ---
 

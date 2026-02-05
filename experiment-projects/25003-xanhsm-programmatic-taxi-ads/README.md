@@ -1,9 +1,10 @@
 # 25003: XanhSM Programmatic Taxi Ads
 
 **Project:** Programmatic DOOH Advertising on XanhSM Electric Taxis
-**Type:** Market Research + Business Development
-**Status:** Ready for Experimentation
+**Type:** Experiment Project (In-House Venture)
+**Status:** Experiment Phase - Q1 2026 Focus
 **Created:** 08.12.25
+**Experiment Period:** Feb - Apr 2026
 
 ---
 
@@ -59,3 +60,4 @@ Research on programmatic digital out-of-home (DOOH) advertising opportunity leve
 | 09.12.25 | Added hypotheses and experiment charters |
 | 10.12.25 | Created pitch deck |
 | 05.02.26 | Added README.md following new template |
+| 05.02.26 | Moved to experiment-projects/ - Q1 2026 focus |

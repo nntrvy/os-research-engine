@@ -33,11 +33,12 @@ research-outputs/        experiment-projects/       validated-projects/
 
 ---
 
-## Current Projects
+## Current Projects (Q1 2026 Focus)
 
-| Project | Problem | Stage | Key Experiment |
-|---------|---------|-------|----------------|
-| *(None yet)* | - | - | - |
+| Project | Type | Problem | Stage |
+|---------|------|---------|-------|
+| [25003-xanhsm-programmatic-taxi-ads](./25003-xanhsm-programmatic-taxi-ads/) | In-House Venture | No programmatic DOOH in Vietnam taxis | Solution Fit |
+| [26009-bee-digital-v1](./26009-bee-digital-v1/) | Cash Engine | BeeVN needs digital insurance platform | Business Model |
 
 ---
 

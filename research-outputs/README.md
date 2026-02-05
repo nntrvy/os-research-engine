@@ -64,7 +64,6 @@ research-outputs/        experiment-projects/       validated-projects/
 |----|---------|--------|------------|
 | 25001 | social-listening | Complete | Methodology |
 | 25002 | blue-ocean-classics | Complete | Framework |
-| 25003 | xanhsm-programmatic-taxi-ads | Research | AdTech / DOOH |
 | 25004 | vietnam-innovation-policy | Research | Policy |
 | 26001 | vietnam-top-problems | Research | Market Scan |
 | 26002 | avep-vs-osr-analysis | Complete | Strategy |
@@ -74,9 +73,12 @@ research-outputs/        experiment-projects/       validated-projects/
 | 26006 | reintegration-platform | Research | Social Impact |
 | 26007 | children-age-2-10 | Research | EdTech |
 | 26008 | speech-practice-studio | Research | EdTech |
-| 26009 | bee-digital-v1 | VPC/BMC Complete | InsurTech |
 | 26010 | millennial-dad-bonding | Research | Consumer |
 | 26011 | vinfast-insurance-markets | Research | InsurTech |
+
+### Graduated to Experiment Phase
+- ~~25003-xanhsm-programmatic-taxi-ads~~ → `experiment-projects/`
+- ~~26009-bee-digital-v1~~ → `experiment-projects/`
 
 ---
 
