@@ -55,6 +55,72 @@ Folders use **ref numbers** with format: `{YY}{NNN}-{project-name}`
 - Next 3 digits = Sequential project number
 - Examples: `25001-social-listening`, `26006-reintegration-platform`
 
+### Research Session Management
+
+**CRITICAL:** Before starting any new research, ALWAYS check if related research already exists.
+
+#### Step 1: Check for Existing Research
+
+```bash
+ls -la research-outputs/
+```
+
+Search for related topics by name or keywords. If a relevant folder exists (e.g., `26009-bee-digital-v1`), add new outputs to that folder instead of creating a new one.
+
+#### Step 2: Add to Existing OR Create New Folder
+
+**If related research EXISTS:**
+1. Add new files to the existing folder following the `DD.MM.YY-topic-name.md` naming convention
+2. Update the folder's `README.md` (master context) with:
+   - New findings under appropriate section
+   - Changelog entry at the bottom with date and summary
+
+**If NO related research exists:**
+1. Create new folder: `{YY}{NNN}-{project-name}/` (e.g., `26012-new-project/`)
+2. Create `README.md` as the **master context document** with this structure:
+
+```markdown
+# {REFNUM}: {Project Name}
+
+**Project:** {Name}
+**Type:** {Research Type}
+**Status:** {Current Status}
+**Created:** {DD.MM.YY}
+
+---
+
+## Overview
+{Brief description of research scope and objectives}
+
+---
+
+## Key Findings
+| Finding | Implication |
+|---------|-------------|
+| ... | ... |
+
+---
+
+## Folder Structure
+{List of files in this folder}
+
+---
+
+## Changelog
+| Date | Change |
+|------|--------|
+| DD.MM.YY | Initial creation |
+```
+
+#### Step 3: Keep Master Context Updated
+
+The `README.md` in each research folder serves as the **single source of truth**. Update it every session with:
+- New findings or pivots
+- Status changes
+- Changelog entries
+
+This enables any agent to quickly understand project context without reading all files.
+
 ## Methodology Flow
 
 The playbooks follow a specific learning progression:
