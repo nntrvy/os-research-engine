@@ -1,50 +1,54 @@
 # Validated Projects
 
-This folder contains projects that have been fully validated and are generating revenue or have been successfully delivered to clients.
+Projects that are LIVE and generating revenue. Two sources:
+1. **Cash Engine** - Client services projects (outsourced development, consulting)
+2. **In-House Ventures** - OS Research's own startups that achieved product-market fit
 
-## Criteria for Validated Projects
+---
 
-A project moves from `research-outputs/` to `validated-projects/` when:
-- ✅ Product/service is LIVE and operational
-- ✅ Revenue has been realized or contract signed
-- ✅ Client has accepted delivery
+## Project Lifecycle
+
+```
+research-outputs/        experiment-projects/       validated-projects/
+      │                         │                          │
+      │ Problem Hunting         │ Solution Testing         │ Revenue Generation
+      │ Customer Segments       │ MVP Building             │ Operations
+      │ Customer Profiles       │ Business Model Tests     │ Scale
+      │ Key Assumptions         │ Pricing Experiments      │
+      │ Problem Validation      │ Channel Tests            │
+      │ Market Sizing           │                          │
+      │                         │                          │
+      └─── PROBLEM VALIDATED ──→└─── PMF ACHIEVED ────────→│
+           (Real pain + Big market)   (Repeatable revenue)
+```
 
 ---
 
 ## Current Projects
 
+### Cash Engine (Client Services)
+
 | Project | Client | Status | Revenue |
 |---------|--------|--------|---------|
 | [26012-beeos-app](./26012-beeos-app/) | BeeVN (Vingroup) | ✅ LIVE | USD 90,000 |
 
----
+### In-House Ventures
 
-## Project Categories
-
-### Cash Engine (Client Services)
-Revenue-generating custom software and consulting projects for clients.
-
-- **26012-beeos-app** - Insurance workflow automation platform for BeeVN
-
-### Startup Ventures
-OS Research's own startup ventures that have achieved product-market fit.
-
-*(None yet)*
+*(None yet - projects graduate from experiment-projects/ after achieving PMF)*
 
 ---
 
-## Relationship to Research Outputs
+## Criteria for Validation
 
-```
-research-outputs/         validated-projects/
-    │                           │
-    │  Hypothesis Testing       │  Revenue Generation
-    │  Market Research          │  Client Delivery
-    │  Prototyping              │  Ongoing Operations
-    │                           │
-    └────── VALIDATION ────────→│
-           (PMF achieved)
-```
+### Cash Engine Projects
+- ✅ Contract signed and payment received
+- ✅ Product delivered and accepted by client
+- ✅ Product is LIVE in production
+
+### In-House Ventures
+- ✅ Product-market fit achieved (repeatable revenue)
+- ✅ Unit economics validated
+- ✅ Ready to scale
 
 ---
 
