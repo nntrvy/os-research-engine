@@ -2,6 +2,37 @@
 
 All notable changes to OS Research Engine are documented in this file.
 
+## [2026-02-05] - BeeOS Validated + Training Videos + Knowledge Infrastructure
+
+### Added
+- `validated-projects/` - New folder for LIVE revenue-generating projects
+- `validated-projects/26012-beeos-app/` - BeeOS moved from research-outputs (LIVE at beeos.com.vn)
+- `validated-projects/README.md` - Index explaining validation criteria and project categories
+- `work-documents/05.02.26-beeos-training-video-guide.md` - 10 Vietnamese training video scripts with production checklist
+- README.md files for 12 research projects (25001-25004, 26001-26003, 26007-26011)
+
+### Changed
+- BeeOS status: Development Complete → ✅ LIVE (Production Deployed 26.01.26)
+- BeeOS type: Custom Software → Validated Project / Cash Engine
+- Updated 26004, 26005, 26006, 26009 READMEs with changelog tables
+
+### Research Conducted
+- Extracted production infrastructure details from work-documents (AWS, EC2, RDS, CloudFront)
+- Documented 44-table database schema by module
+- Compiled data migration stats (~800 policies, ~2,500 claims)
+- Created comprehensive training video scripts for 4 user roles
+
+### Key Deliverables
+- **BeeOS Training Videos**: 10 scripts covering login, policy management, claims, approvals, admin
+- **Learning Paths**: Underwriter (30 min), Claims Officer (25 min), Leader (15 min), Admin (10 min)
+- **Production Checklist**: Pre/post-production workflow for video creation
+
+### Revenue
+- BeeOS Phase I: USD 90,000 (~2.35B VND)
+- Maintenance Support: Feb 2026 - Feb 2027 (1 year)
+
+---
+
 ## [2026-02-03] - BeeVN Digital Partnership VPC/BMC
 
 ### Added
