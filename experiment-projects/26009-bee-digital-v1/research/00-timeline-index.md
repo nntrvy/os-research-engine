@@ -242,6 +242,8 @@ Instead of depending on VinFast OEM data:
 | 15 | weekly-validation-sep30.md | Sep 30 | Synthesis + "start small" |
 | 16 | formal-proposal.md | Sep 15 | Đề án for stakeholders |
 | 17 | competitive-analysis.md | Sep 18 | 12 solutions analyzed |
+| 18 | vinfast-beevn-sla-meeting.md | Feb 6 2026 | **Medium-Strong evidence** - VF x BeeVN SLA kickoff, project owners assigned, DMS integration confirmed feasible |
+| 19 | customer-profile-vinfast-aftersales.md | Feb 6 2026 | Customer Profile (VPC right side) for VF Aftersales - jobs, pains, gains. For solution fitting later. |
 
 ---
 

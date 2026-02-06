@@ -108,6 +108,9 @@ The project began as "embedded insurance" for Vingroup apps. Through validation:
 | 03.02.26 | VPC/BMC complete, ready for pitch |
 | 05.02.26 | Added Changelog table following new template |
 | 05.02.26 | Moved to experiment-projects/ - Q1 2026 focus |
+| 06.02.26 | Added meeting minutes: VinFast x BeeVN SLA implementation kickoff (medium-strong evidence) |
+| 06.02.26 | Added Customer Profile (VPC) for VinFast Aftersales - jobs, pains, gains for solution fitting |
+| 06.02.26 | Created bee-digital-concept-v2.md: Near-term BMC (Claims SLA) + Long-term BMC (Full Ecosystem) |
 
 ---
 
