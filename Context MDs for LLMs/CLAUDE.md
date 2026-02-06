@@ -240,6 +240,13 @@ Located in `2-experiment-guide/experiment-series.md`:
 3. **B2C Services:** Interviews + Search Trends → Ads + Landing → Pre-sale → Concierge
 4. **B2B2C:** Consumer validation → Pre-sale + Concierge → Single Feature MVP → Partner Interviews
 
+**Department Assignment:** Each experiment step is tagged with the responsible department:
+- `[PH]` = **Problem Hunting** (RED) — Discovery, interviews, trend analysis, insight gathering
+- `[RP]` = **Rapid Prototyping & Testing** (BLUE) — Ads, landing pages, prototypes, mock sales
+- `[ST]` = **Branding & Storytelling** (GREEN) — Videos, crowdfunding, concierge, data sheets
+
+See the full team structure and per-step department assignments in `experiment-series.md`.
+
 ## Commands
 
 No build pipeline required. Optional formatting:

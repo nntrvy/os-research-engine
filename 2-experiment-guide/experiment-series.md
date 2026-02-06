@@ -4,6 +4,60 @@ Chuỗi thí nghiệm theo mô hình kinh doanh
 
 This guide provides recommended experiment sequences for different business types. Each series builds evidence progressively, from discovery to validation.
 
+**For agents:** When you identify a business model type, use the matching experiment series below. Each experiment step is tagged with the responsible department so you can assign work correctly.
+
+---
+
+## Department Color Legend & Team Structure
+
+### Color Legend (Chú thích về màu)
+
+Each experiment step is tagged with the department that owns it:
+
+| Tag | Department | Color | Mission |
+|-----|-----------|-------|---------|
+| `[PH]` | **Problem Hunting** | RED | Find real problems to solve |
+| `[RP]` | **Rapid Prototyping & Testing** | BLUE | Turn ideas into prototypes fast, collect user feedback early and continuously |
+| `[ST]` | **Branding & Storytelling** | GREEN | Turn learnings & insights into compelling stories for the community |
+
+### Team Structure (Sơ đồ Tổ chức Tối giản)
+
+```
+OS Research - Minimal Organization Chart
+=========================================
+
+1. PROBLEM HUNTING DEPARTMENT [PH] (RED)
+   Mission: Find real problems to solve
+   ├── AI Research Agents ................. Vy Nguyen
+   │   Secondary research (automated/semi-automated),
+   │   market scanning, trends, behavior, digital signals
+   └── Primary Research Team .............. [Hiring Soon]
+       Interviews, real conversations, field questions,
+       observation, direct insight collection from real people
+
+2. RAPID PROTOTYPING & TESTING DEPARTMENT [RP] (BLUE)
+   Mission: Turn ideas into prototypes fast, collect early user feedback
+   ├── VPC & BMC Generator ................ Vy Nguyen
+   │   Rapid value proposition & business model design
+   ├── Prototype Builder .................. Vy Nguyen + [Hiring: Product Designer]
+   │   Fake startups, landing pages, clickable prototypes,
+   │   simulated flows, single-function MVPs
+   │   Goal: measure market demand, feasibility, profitability
+   └── Test Runner ........................ Vy Nguyen + [Hiring Later]
+       Conversion ads, direct marketing, simulations,
+       commitment & willingness-to-pay tests via payment CTAs
+
+3. BRANDING & STORYTELLING DEPARTMENT [ST] (GREEN)
+   Mission: Turn learnings & insights into compelling stories
+   ├── Brand Design ....................... Johann
+   │   Brand development, visual identity, brand system
+   ├── Social Media Management ............ [Hiring Soon]
+   │   Knowledge synthesis, content on social platforms
+   │   Focus: Awareness & Consideration
+   └── Multimedia Producer ................ [Hiring Later]
+       Video, photo, editing, motion, visual storytelling
+```
+
 ---
 
 ## 1. B2C Physical Products (Hardware)
@@ -57,15 +111,15 @@ Consumer hardware companies have more options than ever. They can create explain
 
 ### Experiment Sequence
 
-| Phase | Experiment | Purpose | Evidence |
-|-------|------------|---------|----------|
-| 1 | [Customer Interviews](./06-customer-interviews.md) | Discover jobs, pains, gains | Weak-Medium |
-| 1 | [Search Trend Analysis](./02-search-trend-analysis.md) | Validate problem size | Medium |
-| 2 | [Pretend to Own](./20-pretend-to-own.md) / Paper Prototype | Test form factor | Weak |
-| 2 | [3D Print](./31-3d-print.md) | Test physical prototype | Medium |
-| 3 | [Explainer Video](./24-explainer-video.md) | Communicate value proposition | Medium |
-| 3 | [Crowdfunding](./18-crowdfunding.md) | Validate demand + raise funds | Very Strong |
-| 4 | [Pop-up Store](./28-popup-store.md) | Test real-world sales | Strong |
+| Phase | Experiment | Dept | Purpose | Evidence |
+|-------|------------|------|---------|----------|
+| 1 | [Customer Interviews](./06-customer-interviews.md) | `[PH]` | Discover jobs, pains, gains | Weak-Medium |
+| 1 | [Search Trend Analysis](./02-search-trend-analysis.md) | `[PH]` | Validate problem size | Medium |
+| 2 | [Pretend to Own](./20-pretend-to-own.md) / Paper Prototype | `[RP]` | Test form factor | Weak |
+| 2 | [3D Print](./31-3d-print.md) | `[RP]` | Test physical prototype | Medium |
+| 3 | [Explainer Video](./24-explainer-video.md) | `[ST]` | Communicate value proposition | Medium |
+| 3 | [Crowdfunding](./18-crowdfunding.md) | `[ST]` | Validate demand + raise funds | Very Strong |
+| 4 | [Pop-up Store](./28-popup-store.md) | `[ST]` | Test real-world sales | Strong |
 
 ### Key Insights for Hardware
 
@@ -127,15 +181,15 @@ The growth of the Internet, open-source software, and tools has brought new soft
 
 ### Experiment Sequence
 
-| Phase | Experiment | Purpose | Evidence |
-|-------|------------|---------|----------|
-| 1 | [Customer Interviews](./06-customer-interviews.md) | Capture customer language | Weak-Medium |
-| 2 | [Fake Door Ad](./10-fake-door-ad.md) | Test messaging at scale | Medium |
-| 2 | [Simple Landing Page](./26-simple-landing-page.md) | Capture sign-ups | Medium |
-| 3 | [Email/Social Campaign](./13-email-campaign.md) | Nurture and educate | Medium |
-| 3 | Clickable Prototype (Figma) | Test UX without code | Medium |
-| 4 | [Mock Sale](./27-mock-sale.md) / [Pre-sale](./16-pre-sale.md) | Validate willingness to pay | Strong |
-| 4 | [Wizard of Oz](./30-wizard-of-oz.md) | Deliver value manually | Very Strong |
+| Phase | Experiment | Dept | Purpose | Evidence |
+|-------|------------|------|---------|----------|
+| 1 | [Customer Interviews](./06-customer-interviews.md) | `[PH]` | Capture customer language | Weak-Medium |
+| 2 | [Fake Door Ad](./10-fake-door-ad.md) | `[RP]` | Test messaging at scale | Medium |
+| 2 | [Simple Landing Page](./26-simple-landing-page.md) | `[RP]` | Capture sign-ups | Medium |
+| 3 | [Email/Social Campaign](./13-email-campaign.md) | `[PH]` | Nurture and educate | Medium |
+| 3 | Clickable Prototype (Figma) | `[RP]` | Test UX without code | Medium |
+| 4 | [Mock Sale](./27-mock-sale.md) / [Pre-sale](./16-pre-sale.md) | `[RP]` | Validate willingness to pay | Strong |
+| 4 | [Wizard of Oz](./30-wizard-of-oz.md) | `[ST]` | Deliver value manually | Very Strong |
 
 ### Key Insights for SaaS
 
@@ -198,15 +252,15 @@ B2C service companies start with a specific area by interviewing customers and s
 
 ### Experiment Sequence
 
-| Phase | Experiment | Purpose | Evidence |
-|-------|------------|---------|----------|
-| 1 | [Customer Interviews](./06-customer-interviews.md) | Understand local needs | Weak-Medium |
-| 1 | [Search Trend Analysis](./02-search-trend-analysis.md) | Validate demand volume | Medium |
-| 2 | [Online Ads](./10-fake-door-ad.md) | Drive local traffic | Medium |
-| 2 | [Simple Landing Page](./26-simple-landing-page.md) | Capture leads | Medium |
-| 3 | [Email/Social Campaign](./12-social-media-campaign.md) | Build trust over time | Medium |
-| 4 | [Pre-sale](./16-pre-sale.md) | Validate payment intent | Very Strong |
-| 4 | [Concierge](./29-concierge.md) | Manual service delivery | Very Strong |
+| Phase | Experiment | Dept | Purpose | Evidence |
+|-------|------------|------|---------|----------|
+| 1 | [Customer Interviews](./06-customer-interviews.md) | `[PH]` | Understand local needs | Weak-Medium |
+| 1 | [Search Trend Analysis](./02-search-trend-analysis.md) | `[PH]` | Validate demand volume | Medium |
+| 2 | [Online Ads](./10-fake-door-ad.md) | `[RP]` | Drive local traffic | Medium |
+| 2 | [Simple Landing Page](./26-simple-landing-page.md) | `[RP]` | Capture leads | Medium |
+| 3 | [Email/Social Campaign](./12-social-media-campaign.md) | `[PH]` | Build trust over time | Medium |
+| 4 | [Pre-sale](./16-pre-sale.md) | `[ST]` | Validate payment intent | Very Strong |
+| 4 | [Concierge](./29-concierge.md) | `[ST]` | Manual service delivery | Very Strong |
 
 ### Key Insights for Services
 
@@ -279,16 +333,16 @@ B2B2C companies are in a unique position to use experiments to inform the supply
 
 ### Experiment Sequence
 
-| Phase | Experiment | Purpose | Evidence |
-|-------|------------|---------|----------|
-| 1 | [Customer Interviews](./06-customer-interviews.md) | Understand end-user needs | Weak-Medium |
-| 2 | [Simple Landing Page](./26-simple-landing-page.md) | Prove consumer interest | Medium |
-| 2 | [Explainer Video](./24-explainer-video.md) | Communicate value clearly | Medium |
-| 3 | [Pre-sale](./16-pre-sale.md) | Prove consumers will pay | Very Strong |
-| 3 | [Concierge](./29-concierge.md) | Prove you can deliver | Very Strong |
-| 4 | [Single Feature MVP](./32-single-feature-mvp.md) | Prove technical capability | Very Strong |
-| 4 | [Data Sheet](./22-data-sheet.md) | Professional specifications | Medium |
-| 5 | [Partner & Supplier Interviews](./07-partner-supplier-interviews.md) | Negotiate with evidence | Strong |
+| Phase | Experiment | Dept | Purpose | Evidence |
+|-------|------------|------|---------|----------|
+| 1 | [Customer Interviews](./06-customer-interviews.md) | `[PH]` | Understand end-user needs | Weak-Medium |
+| 2 | [Simple Landing Page](./26-simple-landing-page.md) | `[RP]` | Prove consumer interest | Medium |
+| 2 | [Explainer Video](./24-explainer-video.md) | `[PH]` | Gather consumer response as evidence | Medium |
+| 3 | [Pre-sale](./16-pre-sale.md) | `[ST]` | Prove consumers will pay | Very Strong |
+| 3 | [Concierge](./29-concierge.md) | `[ST]` | Prove you can deliver | Very Strong |
+| 4 | [Single Feature MVP](./32-single-feature-mvp.md) | `[ST]` | Prove technical capability | Very Strong |
+| 4 | [Data Sheet](./22-data-sheet.md) | `[ST]` | Professional specifications | Medium |
+| 5 | [Partner & Supplier Interviews](./07-partner-supplier-interviews.md) | `[PH]` | Negotiate with evidence | Strong |
 
 ### Key Insights for B2B2C
 
@@ -301,12 +355,12 @@ B2B2C companies are in a unique position to use experiments to inform the supply
 
 ## Choosing Your Series
 
-| Business Type | Start With | Critical Experiment | End Goal |
-|---------------|------------|---------------------|----------|
-| **B2C Hardware** | Interviews | Crowdfunding | Funded product |
-| **B2C Software** | Interviews | Wizard of Oz | Validated MVP |
-| **B2C Services** | Interviews + Search | Concierge | Refined service |
-| **B2B2C** | Consumer validation | Partner interviews | Partnership deals |
+| Business Type | Start With | Critical Experiment | End Goal | Dept Flow |
+|---------------|------------|---------------------|----------|-----------|
+| **B2C Hardware** | Interviews | Crowdfunding | Funded product | `[PH]` → `[RP]` → `[ST]` |
+| **B2C Software** | Interviews | Wizard of Oz | Validated MVP | `[PH]` → `[RP]` → `[PH]` → `[RP]` → `[ST]` |
+| **B2C Services** | Interviews + Search | Concierge | Refined service | `[PH]` → `[RP]` → `[PH]` → `[ST]` |
+| **B2B2C** | Consumer validation | Partner interviews | Partnership deals | `[PH]` → `[RP]` → `[ST]` → `[PH]` |
 
 ## Evidence Progression
 
