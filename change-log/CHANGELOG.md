@@ -6,6 +6,19 @@ All notable changes to OS Research Engine. For detailed context, see `sessions/`
 
 ## 2026
 
+### 04.02.26
+
+- **Created** `26010-millennial-dad-bonding/` - Millennial dad-son bonding platform research
+- **Created** `vpc-bmc-v2.md` - Complete VPC/BMC with customer profiles, competitive analysis, hypotheses
+- **Discovery** Major pivot: Dad-as-buyer → Mom-as-buyer positioning (moms control 85% household spending)
+- **Discovery** TAM expansion: $50M → $6B (Vietnam dads with sons → SEA parents with all children 0-5)
+- **Discovery** Business model shift: D2C only → B2B2C hybrid (60% corporate/insurer, 30% D2C, 10% data)
+- **Discovery** Competitive gap: No daily engagement platforms with milestone tracking + dad focus
+- **Analyzed** 5 existing solutions (City Dads Group, Cooper & Kid, Rad Dad Box, ThreeSixFiveDad, Boot Camp for New Dads)
+- **Generated** 9 testable hypotheses (3 Desirability, 2 Feasibility, 3 Viability, 1 Risk)
+
+[Session details →](sessions/04.02.26-session-summary.md)
+
 ### 03.02.26
 
 - **Added** `existing-solutions-analyst` agent — Competitive analysis agent for market validation
@@ -113,6 +126,9 @@ All notable changes to OS Research Engine. For detailed context, see `sessions/`
 | 26005 | AI Disability Accessibility | Research Phase | — |
 | 26006 | Reintegration Platform | Research Phase | — |
 | 26007 | Child Development (2-10) | Research Complete | 18-month gap = blue ocean |
+| 26008 | Speech Practice Studio | Research Phase | — |
+| 26009 | BeeVN-Digital Partnership | Research Complete | VPC/BMC development |
+| 26010 | Millennial Dad Bonding (0-5) | Research Complete | Mom-as-buyer, B2B2C model, $6B TAM |
 
 ---
 
@@ -120,8 +136,8 @@ All notable changes to OS Research Engine. For detailed context, see `sessions/`
 
 | Metric | Count |
 |--------|-------|
-| Total Sessions | 5 |
-| Research Projects | 10 |
+| Total Sessions | 6 |
+| Research Projects | 11 |
 | Experiments Designed | 10 |
-| Hypotheses Generated | 25+ |
-| Documents Created | 50+ |
+| Hypotheses Generated | 35+ |
+| Documents Created | 52+ |
