@@ -75,6 +75,7 @@ research-outputs/        experiment-projects/       validated-projects/
 | 26008 | speech-practice-studio | Research | EdTech |
 | 26010 | millennial-dad-bonding | Research | Consumer |
 | 26011 | vinfast-insurance-markets | Research | InsurTech |
+| 26012 | mvno-vietnam | Research | Telecom |
 
 ### Graduated to Experiment Phase
 - ~~25003-xanhsm-programmatic-taxi-ads~~ → `experiment-projects/`
@@ -103,4 +104,4 @@ research-outputs/        experiment-projects/       validated-projects/
 
 ---
 
-*Last updated: 05.02.26*
+*Last updated: 12.03.26*
