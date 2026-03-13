@@ -1,7 +1,7 @@
 # OS Research Studio — Strategic Overview
 
-> Last updated: 2026-03-12
-> Version: 1.0
+> Last updated: 2026-03-13
+> Version: 1.1
 
 ---
 
@@ -183,15 +183,29 @@
 
 ## Validation Criteria
 
-A venture is **validated** when it meets **≥4 of 5**:
+Validation is not a checklist — it is a **Confidence Level** built from the weight of evidence.
 
-| # | Criteria | Threshold |
-|---|----------|-----------|
-| 1 | Funding | 3B VND seed secured |
-| 2 | PMF Score | ≥40% "very disappointed" |
-| 3 | Customers | ≥5 paying or signed LOIs |
-| 4 | Unit Economics | LTV:CAC ≥2:1 |
-| 5 | Retention | ≥70% monthly |
+Each venture is assessed based on:
+
+| Input | Description |
+|-------|-------------|
+| **Experiments run** | What was tested, how it was tested, and the quality of the experiment design |
+| **Supporting evidence** | Data points that confirm the hypothesis (demand signals, purchase behavior, retention patterns) |
+| **Refuting evidence** | Data points that challenge or contradict the hypothesis |
+| **Evidence strength** | How reliable, repeatable, and statistically meaningful the evidence is |
+| **Supporting insights** | Qualitative signals — customer interviews, behavioral patterns, market context |
+| **Unclear signals** | Ambiguous data that neither confirms nor denies — flagged, not ignored |
+
+These inputs are weighed together to produce an overall **Confidence Level**:
+
+| Level | Meaning |
+|-------|---------|
+| **Not at all confident** | Evidence is weak, contradictory, or missing. Kill the idea. |
+| **Slightly confident** | Some positive signals but too many unknowns. Run more experiments. |
+| **Moderately confident** | Solid supporting evidence with manageable risks. Worth deeper testing. |
+| **Very confident** | Strong, consistent evidence across multiple experiments. Ready for investment. |
+
+A venture moves to investment only when we reach **very confident** — backed by real experiments, not assumptions.
 
 ---
 
@@ -211,4 +225,5 @@ A venture is **validated** when it meets **≥4 of 5**:
 
 | Date | Version | Changes |
 |------|---------|---------|
+| 2026-03-13 | 1.1 | Replace 5-point validation checklist with Confidence Level framework based on experiment evidence |
 | 2026-03-12 | 1.0 | Initial strategic overview created from VPCs and BMC |
