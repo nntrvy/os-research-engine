@@ -129,7 +129,7 @@
 
 | Block | Details |
 |-------|---------|
-| **Customer Segments** | Aspiring founders (idea stage, employed) · Rich angel investors (capital, no time) · VCs seeking de-risked deals |
+| **Customer Segments** | Aspiring founders (idea stage, employed) · Rich angel investors (capital, no time)  |
 | **Value Propositions** | *Founders:* Validate before you quit, no fee, we co-invest, real evidence · *Investors:* Pre-validated deals, skin in the game, OSR operates, exclusive access |
 | **Channels** | Exclusive deal drops · Newsletter & podcast · Documentary content · Partner referrals · Community events |
 | **Customer Relationships** | Co-investors (not consultants) — aligned incentives |
