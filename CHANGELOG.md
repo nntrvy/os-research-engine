@@ -1,163 +1,177 @@
 # Changelog
 
-All notable changes to OS Research Engine are documented in this file.
-
-## [2026-02-05] - BeeOS Validated + Training Videos + Knowledge Infrastructure
-
-### Added
-- `validated-projects/` - New folder for LIVE revenue-generating projects
-- `validated-projects/26012-beeos-app/` - BeeOS moved from research-outputs (LIVE at beeos.com.vn)
-- `validated-projects/README.md` - Index explaining validation criteria and project categories
-- `work-documents/05.02.26-beeos-training-video-guide.md` - 10 Vietnamese training video scripts with production checklist
-- README.md files for 12 research projects (25001-25004, 26001-26003, 26007-26011)
-
-### Changed
-- BeeOS status: Development Complete → ✅ LIVE (Production Deployed 26.01.26)
-- BeeOS type: Custom Software → Validated Project / Cash Engine
-- Updated 26004, 26005, 26006, 26009 READMEs with changelog tables
-
-### Research Conducted
-- Extracted production infrastructure details from work-documents (AWS, EC2, RDS, CloudFront)
-- Documented 44-table database schema by module
-- Compiled data migration stats (~800 policies, ~2,500 claims)
-- Created comprehensive training video scripts for 4 user roles
-
-### Key Deliverables
-- **BeeOS Training Videos**: 10 scripts covering login, policy management, claims, approvals, admin
-- **Learning Paths**: Underwriter (30 min), Claims Officer (25 min), Leader (15 min), Admin (10 min)
-- **Production Checklist**: Pre/post-production workflow for video creation
-
-### Revenue
-- BeeOS Phase I: USD 90,000 (~2.35B VND)
-- Maintenance Support: Feb 2026 - Feb 2027 (1 year)
+All notable changes to OS Research Engine, in reverse chronological order.
 
 ---
 
-## [2026-02-03] - BeeVN Digital Partnership VPC/BMC
+## 2026-03-23 — Major Cleanup + Pipeline Tracker + Hiring Tools Research
 
-### Added
-- `research-outputs/26009-bee-digital-v1/` - Complete BeeVN-Digital partnership research package
-  - `research/` - 18 research files (00-17) including market analysis and electrik technology reports
-  - `outputs/bee-digital-vpc-bmc.md` - Final VPC/BMC v1.0 with changelog
-  - `README.md` - Project overview and structure documentation
-- VC-roaster agent used to critique and optimize business model
+### Research
+- **Created** `26013-founder-hiring-tools/` — Competitive landscape (20+ tools analyzed)
+- **Created** `research-outputs/pipeline-tracker.md` — Full portfolio categorization: Idea → Project → Venture → Spin-off
+- **Discovery** No hiring tool treats solo founders as core persona; per-hire pricing gap in Vietnam/SEA
 
-### Changed
-- Renamed project from "electrik" to "bee-digital" reflecting partnership focus
-- Consolidated multiple VPC/BMC iterations into single version-controlled file
-- Removed outdated `electrik-project/` and `electrik-project-market-research/` folders
+### Reorganized
+- **Moved** `content-strategy/` → `docs/content-strategy/` (manifesto, OKR, basecamp post)
+- **Killed** `26009-bee-digital-v1` → `killed-ideas/` (full research archive, 18 files + VPC/BMC)
+- **Killed** `26003-startup-studio-content-strategies` → `killed-ideas/` (content strategist scope + research)
+- **Killed** `26012-mvno-vietnam` → `killed-ideas/` (market research, no clear OSR angle)
 
-### Research Conducted
-- Read comprehensive electrik market research (docx) on Vietnam collision insurance technology
-- Analyzed BeeVN as primary customer (not insurers)
-- Identified two core functions: (1) Sell Insurance (2) Manage Claim SLA
-- Partnership structure: OSR = technology, BeeVN = customers + insurers + investment
+### Cleaned up
+- **Consolidated** 14 changelog files (4 locations) into single `CHANGELOG.md`
+- **Removed** `SESSION-CHANGELOG.md`, `SESSION-SUMMARIES.md`, `change-log/` folder (8 session files), `session-summaries/` folder
+- **Removed** `OKR-2026.md` (moved to docs)
+- **Removed** `scripts/generate_quy_che_tai_chinh.py`
+- **Removed** `xanhsm-programmatic-taxi-ads-research.md` (duplicate of 25003)
+- **Added** `hiring/` — Content strategist trial contract (docx + md) + generation script
+- **Updated** `hiring/senior-product-designer-jd.md`
+- **Updated** `research-outputs/README.md` — Added pipeline tracker reference
 
-### Key Findings
-- BeeVN partnership model focuses on serving digital insurance agency rather than insurers directly
-- OSR provides white-label technology platform
-- BeeVN brings existing insurance partnerships, customer base, and capital
-- Reorganized all research into structured folder for future reference
-
----
-
-## [2026-01-25] - Vietnam Top Problems Research & Content Strategy
-
-### Added
-- `research-outputs/24.01.26-vietnam-top-problems-market-research.md` - Comprehensive market research on Vietnam's 5 top problem domains
-- `research-outputs/24.01.26-vietnam-top-problems-hypotheses.docx` - 5 critical hypotheses with Assumptions Map prioritization
-- `research-outputs/25.01.26-avep-vs-osr-analysis.docx` - Comparative analysis of AVEP and OSR models
-- `content-strategy/content-strategy-v1.md` - OS Research content strategy (v1.0 → v1.1 → v1.2)
-- `session-summaries/25.01.26-session-summary.md` - Session documentation
-- `CHANGELOG.md` - This file
-
-### Content Strategy Evolution
-**v1.0: Initial Documentary Approach**
-- Philosophy: "10-Year Journal" documenting the mission to become Vietnam's #1 venture studio
-- Primary Channel: YouTube (documentary episodes 10-30 min)
-- 4 Pillars: Field Notes (40%), Build Log (30%), Founder Files (20%), Playbook (10%)
-- Aesthetic: Cinematic, A24 meets Y Combinator, Bourdain-style storytelling
-
-**v1.1: Rebalanced for Blue Ocean Focus**
-- Renamed "Founder Files" → "Blue Ocean Library" (30%, increased from 20%)
-- Field Notes: 25% (reduced from 40%)
-- Build Log: 20% (reduced from 30%)
-- Playbook: 25% (increased from 10%)
-- Goal: 20 Blue Ocean case studies by Year 1, 50 by Year 3
-
-**v1.2: Streamlined for Content Team (FINAL)**
-- Primary Channel: Blog + Newsletter (not YouTube)
-- Secondary: YouTube (playbook tutorials, field documentaries)
-- Budget: 50M VND/month for 1 Content Lead (vs initial 30-50M for multiple roles)
-- Added IP Education Initiative (aligned with Vietnamese government programs)
-- Removed fluff, made tables-focused, added 90-day plan with checkboxes
-- Weekly newsletter: "Weekly Dispatch" every Friday
-
-### Research Conducted
-- Vietnam top problems analysis across 5 domains (Economic, Education, Healthcare, Urban, Financial)
-- Social listening on Voz.vn and Tinhte.vn forums via Bright Data
-- Blue Ocean Strategy analysis to identify best opportunities
-- Hypothesis generation using OSR methodology
-
-### Key Findings
-- **Insurance Trust Crisis** identified as #1 Blue Ocean opportunity (90/100 score)
-- 67% informal workers without social protection = massive non-customer segment
-- Embedded micro-insurance via e-wallets recommended as entry strategy
-- 5 testable hypotheses created with VND 20-50M validation budget
+### Stats
+- **Deleted**: ~9,900 lines of redundant/duplicate content
+- **Net result**: 14 changelog files → 1, 3 killed ideas archived, content strategy relocated
 
 ---
 
-## [2025-12-08] - XanhSM Programmatic Taxi Ads Research
+## 2026-03-14 — Founder Hiring Tools Research + Pipeline Tracker
 
-### Added
-- `research-outputs/xanhsm-programmatic-taxi-ads/` - Complete research package
-  - Market research, social listening, hypotheses, experiment charters, pitch deck
-- `.claude/commands/hypothesizer.md` - Hypothesis generation skill
-- `1-hypotheses-guide/README.md` - Comprehensive hypothesis guide
-- `2-experiment-guide/README.md` - Unified experiment guide
-- `2-experiment-guide/experiment-series.md` - 4 business model experiment sequences
-- `2-experiment-guide/experiments-library/` - 33 detailed experiment guides
+- **Created** `26013-founder-hiring-tools/` — Competitive landscape analysis (20+ tools)
+- **Created** `research-outputs/pipeline-tracker.md` — Portfolio categorization: Idea → Project → Venture → Spin-off
+- **Discovery** No hiring tool treats solo founders as core persona; per-hire pricing gap in Vietnam/SEA
+- **Updated** `research-outputs/README.md` — Added pipeline tracker reference
 
-### Key Findings
-- Vietnam DOOH market: $107.5M → $282.4M (2024-2033)
-- XanhSM: 40% market share, 30K+ electric taxis
-- No programmatic taxi advertising exists in Vietnam (blue ocean)
+## 2026-03-13 — Strategic Docs + Investment Memo + Confidence Levels
+
+- **Created** `docs/osr-strategic-overview.md` — OSR strategic overview with VPC for founders + angels
+- **Created** IC investment memo (YC/SV standard format)
+- **Updated** Validation criteria to Confidence Level framework (v1.1)
+
+## 2026-03-12 — OSR Docs, OKRs, Scripts + MVNO Research
+
+- **Created** `26012-mvno-vietnam/` — Vietnam MVNO market research (TAM $5.2B, 6 licensed operators)
+- **Created** OSR Studio landing page prototype (`app/landing/index.html`)
+- **Added** OSR docs, OKRs, and IC memo writer agent
+- **Added** Experiment series department color coding and team structure
+
+## 2026-03-10 — OSR Studio Landing Page Prototype
+
+- **Created** Landing page prototype — dark theme, 5 modules showcase, $500M goal tracker
+- **Designed** 4-month Basecamp project plan for OSR Studio platform
+- **Created** Lovable.dev prompt for AI-assisted prototype generation
+- **Tech** Single HTML file, vanilla JS, no dependencies
+
+## 2026-02-11 — Dad Bonding Research Committed
+
+- **Committed** 26010 millennial dad bonding platform research to repo
+
+## 2026-02-08 — Senior Product Designer JD
+
+- **Created** `hiring/senior-product-designer-jd.md` — 30M VND, AI-native, 4 products
+- **Updated** JD with refined requirements
+
+## 2026-02-06 — Content OKRs + BeeOS Contracts + Bee-Digital Updates
+
+- **Added** 2026 Content OKR: 1,000 loyal fans + Blue Ocean focus
+- **Added** OS Research Manifesto
+- **Added** Basecamp post: 2026 content goal
+- **Added** Daily reading list + 10 KHCN laws reference
+- **Reorganized** BeeOS contracts (renamed files, added appendices 04-06)
+- **Renamed** XanhSM project → `25003-XanhSM-AdTech-project`
+- **Added** Bee-Digital meeting minutes, customer profile, concept v2
+
+## 2026-02-05 — Project Lifecycle + BeeOS Validated + Knowledge Infrastructure
+
+- **Created** `validated-projects/` — LIVE revenue-generating projects
+- **Moved** BeeOS (`26012-beeos-app`) to validated-projects (LIVE, $90K revenue)
+- **Created** `experiment-projects/` — Projects testing solutions post-validation
+- **Moved** 25003-XanhSM + 26009-bee-digital to experiment-projects
+- **Defined** 3-stage lifecycle: research-outputs → experiment-projects → validated-projects
+- **Created** BeeOS training video guide (10 Vietnamese scripts + production checklist)
+- **Added** README.md for 12 research projects (standardized format)
+- **Standardized** Research session management across CLAUDE.md, GEMINI.md, AGENTS.md
+
+## 2026-02-04 — Millennial Dad Bonding Platform (26010)
+
+- **Created** `26010-millennial-dad-bonding/` — VPC/BMC v2, competitive analysis, hypotheses
+- **Discovery** Pivot: dad-as-buyer → mom-as-buyer (controls 85% household spending)
+- **Discovery** TAM expanded $50M → $6B (Vietnam dads → SEA parents 0-5)
+- **Discovery** Business model: D2C → B2B2C hybrid (60% corporate, 30% D2C, 10% data)
+- **Analyzed** 5 competitors (City Dads Group, Cooper & Kid, Rad Dad Box, ThreeSixFiveDad, Boot Camp)
+- **Generated** 9 hypotheses (3 desirability, 2 feasibility, 3 viability, 1 risk)
+
+## 2026-02-03 — BeeVN-Digital Partnership + Agent Development
+
+- **Created** `26009-bee-digital-v1/` — VPC/BMC, 18 research files, partnership docs
+- **Added** `existing-solutions-analyst` agent for competitive analysis
+- **Added** `the-mom-test.md` — Customer interview framework
+- **Renamed** Project from "electrik" to "bee-digital"
+- **Reorganized** Context MDs into dedicated directory
+
+## 2026-02-02 — Mom Test Framework + Change-log System
+
+- **Added** The Mom Test customer interview methodology (3 core rules)
+- **Created** `change-log/` system with sessions subfolder
+- **Updated** Customer interview guides with Mom Test cross-references
+
+## 2026-02-01 — Child Development Platform (26007) + Content Strategist
+
+- **Created** `26007-children-age-2-10/` — AI platform for developmental disorders
+- **Created** Market research + business pitch with VPC/BMC
+- **Updated** `26003/` — Content strategist work scope (20/20/30/30 allocation)
+- **Discovery** 18-month gap where no solutions exist for worried parents
+- **Discovery** TAM 2.5M → 12M children; LTV:CAC improved 11.25x → 72x
+
+## 2026-01-25 — Vietnam Top Problems + AVEP Analysis + Content Strategy
+
+- **Created** `26001-vietnam-top-problems/` — 5 problem domains, market research
+- **Created** `26002-avep-vs-osr-analysis/` — Antler Vietnam vs OSR comparison
+- **Created** `content-strategy/` — Content strategy v1.0 → v1.1 → v1.2
+- **Generated** 5 critical hypotheses for embedded micro-insurance
+- **Discovery** Insurance trust crisis = #1 Blue Ocean opportunity (90/100)
+- **Discovery** 67% informal workers without social protection
+- **Decision** Focus on embedded micro-insurance via e-wallet distribution
 
 ---
 
-## [2025-12-04] - Vietnam Life Insurance Social Listening
+## 2025
 
-### Added
-- `research-outputs/social-listening/` - Life insurance pain points research
-- Social listening methodology documentation
+## 2025-12-08 — XanhSM Programmatic Taxi Ads (25003)
 
-### Key Findings
-- Insurance mis-selling scandals creating trust crisis
-- Bancassurance coercion widespread
-- 67% informal workers excluded from coverage
+- **Created** `25003-xanhsm-programmatic-taxi-ads/` — Full research pipeline (6 docs + pitch deck)
+- **Created** `experiments-library/` — 33 detailed experiment guides
+- **Created** `experiment-series.md` — 4 business model experiment sequences
+- **Added** `/hypothesizer` slash command
+- **Discovery** Vietnam has ZERO programmatic taxi advertising
+- **Discovery** XanhSM: 40% market share, 30K+ electric taxis, greenfield opportunity
+
+## 2025-12-04 — Vietnam Life Insurance Social Listening (25001)
+
+- **Created** `25001-social-listening/` — Life insurance pain points research
+- **Discovery** 3M+ contracts voided in 2023, 19% market decline
+- **Discovery** 6 high-severity pain points; Facebook groups 50K-123K members
+
+## 2025-12-03 — Repository Initialization
+
+- **Initialized** Git repository + GitHub CLI
+- **Created** `0-market-research-guide/` — Blue Ocean, VPC, BMC playbooks
+- **Created** `1-hypotheses-guide/` — Hypothesis creation framework
+- **Created** `2-experiment-guide/` — Experiment design methodology
+- **Created** `3-learn-guide/` — Evidence collection framework
+- **Created** `4-decide-guide/` — Decision-making framework
 
 ---
 
-## [2025-12-01] - Initial Repository Setup
+## Stats (as of 23.03.26)
 
-### Added
-- `0-market-research-guide/` - Blue Ocean, VPC, BMC playbooks
-- `1-hypotheses-guide/` - Hypothesis creation framework
-- `2-experiment-guide/` - Experiment design methodology
-- `3-learn-guide/` - Evidence collection framework
-- `4-decide-guide/` - Decision-making framework
-- `key-research-areas.md` - 5 core problem domains
-- `CLAUDE.md` - Repository guidance for Claude Code
-
----
-
-## Format
-
-Entries follow: `[YYYY-MM-DD] - Brief Description`
-
-### Categories
-- **Added**: New files or features
-- **Changed**: Updates to existing files
-- **Research Conducted**: Research activities performed
-- **Key Findings**: Important discoveries
-- **Removed**: Deleted files
+| Metric | Count |
+|--------|-------|
+| Research Projects | 13 |
+| Killed Ideas | 3 |
+| Experiment Projects | 1 |
+| Validated Projects | 1 (BeeOS, $90K) |
+| Hypotheses Generated | 40+ |
+| Experiments Designed | 15+ |
+| Pipeline Stage: Idea | 4 |
+| Pipeline Stage: Project | 4 |
+| Pipeline Stage: Venture | 2 |
+| Pipeline Stage: Spin-off | 1 |

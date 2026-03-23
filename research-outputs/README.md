@@ -104,4 +104,10 @@ research-outputs/        experiment-projects/       validated-projects/
 
 ---
 
-*Last updated: 12.03.26*
+## Pipeline Tracker
+
+See [pipeline-tracker.md](./pipeline-tracker.md) for full portfolio categorization across 4 stages: **Idea → Project → Venture → Spin-off**.
+
+---
+
+*Last updated: 15.03.26*

@@ -91,9 +91,9 @@ An AI-powered app that helps users improve their speech through practice and fee
 
 | Benefit | Details |
 |---------|---------|
-| **Salary** | 30,000,000 VND gross/month |
+| **Starting Salary** | 30,000,000 VND gross/month |
 | **Work style** | Hybrid in HCMC |
-| **Equipment** | MacBook + monitor |
+| **Equipment** | iMac M4 |
 | **AI tools** | Paid subscriptions to design AI tools |
 | **Autonomy** | You own design. No approval chains. |
 | **Impact** | Your work ships to real users weekly |
@@ -102,7 +102,7 @@ An AI-powered app that helps users improve their speech through practice and fee
 
 ## How to Apply
 
-Email **hiring@osresearch.co** with:
+Email **nntrvy@osresearch.vn** with:
 
 1. **Portfolio** — 2-3 projects showing your process and visual skills
 2. **AI workflow** — One example of how you use AI in design (screenshot or video)
