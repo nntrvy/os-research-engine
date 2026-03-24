@@ -152,12 +152,12 @@
 │  ──────────────                              ───────────────                           │
 │                                                                                        │
 │  VALIDATION PHASE:                           PRIMARY (Long-term):                      │
-│  • Experiments: $5-50M VND per idea          • Equity gains from exits/acquisitions    │
+│  • Experiments: 20M - 300M VND per idea      • Equity gains from exits/acquisitions    │
 │  • Market research & ads                     • Dividends from profitable portfolio     │
 │  • Prototype & MVP builds                      companies                               │
 │                                                                                        │
 │  INVESTMENT PHASE:                           SECONDARY (Ongoing):                      │
-│  • Seed capital into validated companies     • Cash engine projects (services,         │
+│  • Seed (3B VND) into validated ideas        • Cash engine projects (services,         │
 │  • Follow-on investment reserves               consulting, sponsored research)         │
 │                                                                                        │
 │  OPERATIONS:                                 MODEL:                                    │
