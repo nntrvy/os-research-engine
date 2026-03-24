@@ -4,6 +4,35 @@ All notable changes to OS Research Engine, in reverse chronological order.
 
 ---
 
+## 2026-03-24 — Repo Reorganization: Research Moved to ideas-pipeline
+
+### Moved to `/osr-company/ideas-pipeline/`
+- **research-outputs/** — All 13 research projects (25001–26013)
+- **experiment-projects/** — XanhSM AdTech project (25003)
+- **killed-ideas/** — Bee Digital (26009), Content Strategies (26003), MVNO Vietnam (26012)
+- **validated-projects/** — BeeOS App (26012)
+
+### Removed
+- `Context MDs for LLMs/` — Consolidated into `:init/`
+- `os-research-business-model-canvas.md` — Superseded by `docs/osr-strategic-overview.md`
+- `docs/content-strategy/` — Moved to ideas-pipeline
+- `hiring/` — Moved out of repo
+- `docs/templates/` — Removed
+- `docs/Quy_che_tai_chinh_noi_bo_OSR_v1.docx` — Removed
+- `docs/new-hire-welcome.md` — Removed
+- Misc files: daily reading list, KHCN laws spreadsheet
+
+### Updated
+- `:init/CLAUDE.md` — Updated repo structure, redirected research paths to ideas-pipeline
+- `CHANGELOG.md` — Added reorganization entry
+- `docs/osr-strategic-overview.md` — v1.2 with new CPs, unified Value Map, TRR model
+
+### Result
+- **os-research-engine** is now purely: playbooks + strategic docs + platform code
+- **ideas-pipeline** holds all project-specific research and outputs
+
+---
+
 ## 2026-03-23 — Major Cleanup + Pipeline Tracker + Hiring Tools Research
 
 ### Research
