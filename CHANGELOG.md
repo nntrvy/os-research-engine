@@ -4,6 +4,38 @@ All notable changes to OS Research Engine, in reverse chronological order.
 
 ---
 
+## 2026-03-30 — Landing Page Redesign (v2 through v4.1)
+
+### Created
+- **landing-v2-en.html / landing-v2-vi.html** — Clean rewrite of v1 landing page. Plain language, email signup CTA, 4-step process, two audience cards (entrepreneurs + investors)
+- **landing-v3-en.html / landing-v3-vi.html** — Blue ocean community variant. Cirque du Soleil / Nintendo Wii examples, persona cards, philosophy quote section
+- **landing-v4-en.html / landing-v4-vi.html** — Middle ground between v2 and v3. Manifesto section, honest tone, dual CTAs (follow journey + join team), hiring section with trait cards
+- **landing-v4.1-en.html / landing-v4.1-vi.html** — Iterated from v4 with:
+  - Manifesto broken into 4 sub-headed blocks: "Ask the right questions (and listen)", "Fail cheap, learn fast", "Build what the world needs", "Share everything we learn"
+  - Vision card (blue gradient): "Build 20 blue-ocean companies in Vietnam over 10 years" with footnote defining blue-ocean company
+  - 5-stage vertical pipeline (Raw idea → Shaped → Problem fit → Solution fit → PMF) with R&D budget unlocking and kill branches at each stage
+  - Expanded sector descriptions (Education, Urban, Health, Insurance, Culture) with positive framing
+  - Hiring section: "We're hiring innovators" with 2 stacked CTAs (Explore open roles + Benefits of working here)
+
+### Updated
+- **landing-v4.1-en.html** — Applied OS Research Lean Visual Style Guide:
+  - Font: Inter → IBM Plex Sans
+  - Colors: Carbon Matrix (#181818), Sterile White (#FFFFFF), Spectral Blue (#0248F6)
+  - Nav join button uses Spectral Blue
+- **landing-v2.1-en.html** — Updated join copy ("meaningful work that also pays well"), reordered sectors (Insurance moved after Health)
+
+### Strategic Docs
+- **Created** `docs/osr-strategic-overview-v2.md` — Complete rewrite for team alignment. Simplified structure: mission/vision, beliefs, sectors with positive framing, TRR pipeline, revenue model, 10-year target. VPC/BMC detail moved out.
+- **Created** `docs/osr-business-model-canvas.md` — Standalone living document for VPC and BMC. Two customer segments (Entrepreneurs, Innovation Backers), full Value Map, ASCII BMC, and an Evolution Log to track how our model changes over time with evidence.
+
+### Design Decisions
+- v1 (osresearch.vn) used buzzy language and dark tech aesthetic. v4.1 uses simple, direct language anyone can understand
+- Blue ocean concept explained inline via vision card footnote instead of dedicated section
+- Pipeline shows kill branches to emphasize "cheap failures with significant learnings"
+- Vietnamese versions use formal "chúng tôi" throughout, no slang, accessible to general audience
+
+---
+
 ## 2026-03-24 — Repo Reorganization: Research Moved to ideas-pipeline
 
 ### Moved to `/osr-company/ideas-pipeline/`
@@ -190,7 +222,7 @@ All notable changes to OS Research Engine, in reverse chronological order.
 
 ---
 
-## Stats (as of 23.03.26)
+## Stats (as of 30.03.26)
 
 | Metric | Count |
 |--------|-------|
@@ -200,6 +232,8 @@ All notable changes to OS Research Engine, in reverse chronological order.
 | Validated Projects | 1 (BeeOS, $90K) |
 | Hypotheses Generated | 40+ |
 | Experiments Designed | 15+ |
+| Landing Page Versions | 8 (v1–v4.1, EN/VI) |
+| Strategic Docs (public) | 4 (overview, BMC, manifesto, memo) |
 | Pipeline Stage: Idea | 4 |
 | Pipeline Stage: Project | 4 |
 | Pipeline Stage: Venture | 2 |
